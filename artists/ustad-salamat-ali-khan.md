@@ -101,6 +101,15 @@ Tore Bina Mohe Kal Nahi Aa Way Raag Malkounse - https://www.youtube.com/watch?v=
 https://www.youtube.com/watch?v=7jmHm5GJyy8
 Kafi Rondiya ni umar ni bhi - https://www.youtube.com/watch?v=YAXe3HXs-N8
  Raag Darbari Aj Samadhan More Ghar Aye Gay - https://www.youtube.com/watch?v=Oj_OKXuAtTE
+
+Puriya Dhanasari and Basant - https://www.youtube.com/watch?v=QbAOMVXqU1E
+Rajeshwari - https://www.youtube.com/watch?v=J_P2mK6C6g0
+Patdeep - https://www.youtube.com/watch?v=p4aK3DKQ0gk
+Brindabani sarang - https://www.youtube.com/watch?v=pYA0QAmOAkA
+Nain Mahinjey Tarsde - https://www.youtube.com/watch?v=hHGpvVCKz60
+Nain Mahinje Tarsde (Raag Pahadi) - https://www.youtube.com/watch?v=3zoOug56D_o
+Megh - https://www.youtube.com/watch?v=Fr0EaHDY5Do
+
 ### Interview
 https://www.youtube.com/watch?v=vfBb1Opy3fY
 https://www.youtube.com/watch?v=xGdXvkvtBvw
