@@ -12,9 +12,11 @@ Raag Bairagi Bhairav - https://www.youtube.com/watch?v=DwPBeGQjeEg&t=1838s - Ust
 
 ### Thaat Khamaj
 
-Ragshree recording 1 - as - Ustad Salamat Ali Khan & Nazakat Ali Khan- https://www.youtube.com/watch?v=u_iTMxnlPDE&t=504s
+Ragshree recording 1 - as - Ustad Salamat Ali Khan & Nazakat Ali Khan- https://www.youtube.com/watch?v=u_iTMxnlPDE
 Ragshree recording 2 - https://www.youtube.com/watch?v=hg1dHTCKJXc - Ustad Salamat Ali Khan & Nazakat Ali Khan
 Ragshree - https://www.youtube.com/watch?v=hg1dHTCKJXc
+Ragshree - https://www.youtube.com/watch?v=nmCgx5NKPiI
+
 ### Thaat Kalyan
 
 |Raag                | Bandish                                                                          | Year     | By                                                         | Place |
@@ -96,7 +98,7 @@ Raag Bhankar - https://www.youtube.com/watch?v=uaqu_LQDk6o
 Suha Kanada - https://www.youtube.com/watch?v=fV8rsFp0Wfc
 Kedar - https://www.youtube.com/watch?v=Y8C8zg5NZ-I
 Desi - https://www.youtube.com/watch?v=gEct2YJCCE8
-Malkauns - https://www.youtube.com/watch?v=q9yL-_nbrg8
+Malkauns - https://www.youtube.com/watch?v=q9yL-_nbrg8 , https://www.youtube.com/watch?v=zMVda7cAVrU
 Tore Bina Mohe Kal Nahi Aa Way Raag Malkounse - https://www.youtube.com/watch?v=eBQS3c3Pgl4
 https://www.youtube.com/watch?v=7jmHm5GJyy8
 Kafi Rondiya ni umar ni bhi - https://www.youtube.com/watch?v=YAXe3HXs-N8
@@ -109,6 +111,14 @@ Brindabani sarang - https://www.youtube.com/watch?v=pYA0QAmOAkA
 Nain Mahinjey Tarsde - https://www.youtube.com/watch?v=hHGpvVCKz60
 Nain Mahinje Tarsde (Raag Pahadi) - https://www.youtube.com/watch?v=3zoOug56D_o
 Megh - https://www.youtube.com/watch?v=Fr0EaHDY5Do
+Megh - https://www.youtube.com/watch?v=auZf6rhpkeU
+Gujri Todi - https://www.youtube.com/watch?v=gH58oHjmSLM
+Nat Narayani - https://www.youtube.com/watch?v=nfkB5iVF9-8
+Kalavati - https://www.youtube.com/watch?v=y5oKZ53-UjM
+Darbari - https://www.youtube.com/watch?v=alg8Z4i5Z6k
+Kailash Bhairav - https://www.youtube.com/watch?v=FWqfV1_JB9Q
+Madh Kalyan - https://www.youtube.com/watch?v=Qx3kV-yl3YU
+Barwa - https://www.youtube.com/watch?v=FMwgR1EbRjk
 
 ### Interview
 https://www.youtube.com/watch?v=vfBb1Opy3fY
