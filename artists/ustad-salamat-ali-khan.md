@@ -1,4 +1,4 @@
----
+![image](https://github.com/amandeep511997/hindustani-classical-collection/assets/19922632/68ca3c18-da5f-4788-ad39-fa05c7f43cd9)---
 layout: default
 title: 1934 - Ustad Salamat Ali Khan
 has_children: false
@@ -76,7 +76,7 @@ Bairagi Bhairav - https://www.youtube.com/watch?v=DwPBeGQjeEg
 Jila Kafi - https://www.youtube.com/watch?v=Kkf1MSfP0RU
 
 Jog (Hamre Piya & Rubaidar Tarana) - https://www.youtube.com/watch?v=m0WScM-dK6c
-Jaijaiwanti - https://www.youtube.com/watch?v=jIPH_AG463I
+Jaijaiwanti - https://www.youtube.com/watch?v=jIPH_AG463I , https://www.youtube.com/watch?v=I-CjiQomcQA , https://www.youtube.com/watch?v=H4-tsEv1mD0
 
 Bihag - https://www.youtube.com/watch?v=PSZu54O4O-g
 Sindhi bhairavi| MORA NAINA LAGAGI BARASATH - https://www.youtube.com/watch?v=dJiXoWHuGsY
@@ -119,12 +119,81 @@ Darbari - https://www.youtube.com/watch?v=alg8Z4i5Z6k
 Kailash Bhairav - https://www.youtube.com/watch?v=FWqfV1_JB9Q
 Madh Kalyan - https://www.youtube.com/watch?v=Qx3kV-yl3YU
 Barwa - https://www.youtube.com/watch?v=FMwgR1EbRjk
+Thumri More Naina in Raag Sindhi Bhairavi - https://www.youtube.com/watch?v=UFIxb7drPQM
+Thumri More Naina Sindhi Bhairavi  - https://www.youtube.com/watch?v=WzOLzhW5mIw
+Raag Bhankaar - https://www.youtube.com/watch?v=rjK-a9dmcJg
+Sindhi Kafi Sanwal Morh Moharan  - https://www.youtube.com/watch?v=nLCHUBnpJXk
+Kalan Parat Maika Raag Malkauns - https://www.youtube.com/watch?v=sraxnTG2jGw
+Thumri in Raag Des - Ambuwa ki dar pe koyal - https://www.youtube.com/watch?v=OpFrNWivcpQ
 
+ustad salamat ali khan rare video - https://www.youtube.com/watch?v=NOLjqE-fvpk&t=109s
+Abhogi Kanara - https://www.youtube.com/watch?v=8EzGrpknpTE
+Raag Bhairavi - https://www.youtube.com/watch?v=i__Qx-6dcIM
+Darbari - https://www.youtube.com/watch?v=5XL5VPY_WCw
+Hunsadhwani - https://www.youtube.com/watch?v=anX3waAHt_8
+Yaman Kalyan - https://www.youtube.com/watch?v=hPBaDlxJo-8
+Yaman Kalyan - https://www.youtube.com/watch?v=So12r8krz5w
+Shamvati - https://www.youtube.com/watch?v=6L-DWVENvTk
+Miyan ki Todi - https://www.youtube.com/watch?v=bQ6_x1TbZqg
+Abhogi - https://www.youtube.com/watch?v=pdEc83gpvvQ
+Nat narayani - https://www.youtube.com/watch?v=tDcvNBF-FN8 , https://www.youtube.com/watch?v=i9wrsPM-G-4
+Gawati - https://www.youtube.com/watch?v=hT5UQT84QW0
+Sultani - https://www.youtube.com/watch?v=ZaPslbXRhc4
+Madh Kalyan - https://www.youtube.com/watch?v=_HkigWsGn5M
+Multani - https://www.youtube.com/watch?v=ww_pcYn0ADE
+Suha - https://www.youtube.com/watch?v=ZA85VN-SSGY
+Pahadi - https://www.youtube.com/watch?v=SRSGy31hvaA
+Darbari - https://www.youtube.com/watch?v=4IqxHOlFuC8
+Malkauns - https://www.youtube.com/watch?v=tjIy-TnPHz4
+Desi Todi - https://www.youtube.com/watch?v=GFPOMPKTUJY
+Ramdasi Malhar - https://www.youtube.com/watch?v=sWqZA2tlCnQ
+Suha Kanada - https://www.youtube.com/watch?v=btd1spfxELo
+Puriya Kalyan - https://www.youtube.com/watch?v=YrBhgluB0o0
+Bhupali - https://www.youtube.com/watch?v=RIo-fKp4VdA
+Yaman - https://www.youtube.com/watch?v=GS00G91q-P4 , https://www.youtube.com/watch?v=fdN5VjtEOHc , https://www.youtube.com/watch?v=7ZqEYzLdfp8
+Kedar - https://www.youtube.com/watch?v=Mz_oZ28f4mI 
+Gawati and Durga - https://www.youtube.com/watch?v=CAwDeha1UwA , https://www.youtube.com/watch?v=CAwDeha1UwA
+Pahadi and Tilang - https://www.youtube.com/watch?v=OSyuJm_FLe8
+Adana - https://www.youtube.com/watch?v=j9MgllsAR28 , https://www.youtube.com/watch?v=JVa0bPlzqh0
+Gorakh Kalyan - https://www.youtube.com/watch?v=mittxLv5b3c
+Shahana Kanada - https://www.youtube.com/watch?v=_yE7BOsd9pQ
+Sri, Durga, Hameer - https://www.youtube.com/watch?v=td0oO4d8RKc 
+Zila kafi thumri - https://www.youtube.com/watch?v=tb3qYeDBkMw
+Puriya Kalyan - https://www.youtube.com/watch?v=NPXbRiHcNJM 
+Bhairav - Na ja balam pardesi - https://www.youtube.com/watch?v=b3KkDYbNhUY
+Madh Kalyan - https://www.youtube.com/watch?v=h1ibCZ6gaSs
+Naryani - https://www.youtube.com/watch?v=FfjSoI8bJos
+Chandrakauns - https://www.youtube.com/watch?v=a-ztcXdwIFo
+Hansadhwani, Malkauns - https://www.youtube.com/watch?v=zH1l9NlfSxY
+Bilaskhani Barwa - https://www.youtube.com/watch?v=F23Uc7PYLns , https://www.youtube.com/watch?v=dODBkwQJsCI
+Nayaki Kanada - https://www.youtube.com/watch?v=s5hF9kxOw1Y
+Sindhi Kafi khwaja gulam fareed sahib - https://www.youtube.com/watch?v=AEl-sQ-SGOs
+raag sarsvati - https://www.youtube.com/watch?v=uWCtncVcPlY
+Milan gandhar - https://www.youtube.com/watch?v=5tM6QKX7mT0
+Kafi - unknown lyrics - https://www.youtube.com/watch?v=0KhFczA2J28
+Bairagi Todi - https://www.youtube.com/watch?v=I1ie_79cymc
+Multani - https://www.youtube.com/watch?v=OiBkMHvRqSs
+Pahadi - https://www.youtube.com/watch?v=GLeLuXMcQ5E
+Hansadhwani - https://www.youtube.com/watch?v=YoXVdGG79HY , https://www.youtube.com/watch?v=OWOBrbxHIAE
+Roopwati Kalyan - https://www.youtube.com/watch?v=a_Ih2ucYbfg
+Malhar - https://www.youtube.com/watch?v=uIscb84XIJ8
+Megh - https://www.youtube.com/watch?v=q2gpnKk4sPc
+Adna - https://www.youtube.com/watch?v=Hnw3BF08xSk&t=8s
+Darbari - https://www.youtube.com/watch?v=bv2Nubg2kpM&t=10s
+Bhimpalashri - https://www.youtube.com/watch?v=HltMpcCusmY
+Kaushikdhwani - https://www.youtube.com/watch?v=dBqG78x-NII
+Malkauns, Pahadi thumri - https://www.youtube.com/watch?v=pMjrzY-y1Jk
+Mat kalyan and Madhu - https://www.youtube.com/watch?v=JaPEwMPkBo0
+
+
+https://www.youtube.com/watch?v=7siDFZk0b7w
+https://www.youtube.com/watch?v=cuq9y1wbxzY
 ### Interview
 https://www.youtube.com/watch?v=vfBb1Opy3fY
 https://www.youtube.com/watch?v=xGdXvkvtBvw
 https://www.youtube.com/watch?v=iYtvgx_XIU4&t=5279s
 Reference - https://www.youtube.com/watch?v=Vee0M2EX9e4
+https://www.youtube.com/watch?v=95fRq8lW_sE&t=127s
 
 ### Articles
 https://scroll.in/article/962117/recordings-by-vocalist-salamat-ali-khan-remind-us-how-precise-and-beautiful-the-unimaginable-can-be
