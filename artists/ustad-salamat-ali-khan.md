@@ -1,8 +1,10 @@
-![image](https://github.com/amandeep511997/hindustani-classical-collection/assets/19922632/68ca3c18-da5f-4788-ad39-fa05c7f43cd9)---
+---
 layout: default
 title: 1934 - Ustad Salamat Ali Khan
 has_children: false
 ---
+
+![image](https://github.com/amandeep511997/hindustani-classical-collection/assets/19922632/68ca3c18-da5f-4788-ad39-fa05c7f43cd9)
 ### Thaat Bilawal
 
 Nandeshwari - https://www.youtube.com/watch?v=MGSz6RTSbKY - Ustad Salamat Ali Khan & Sharafat Ali Khan 
@@ -37,6 +39,57 @@ Raag Jog - https://www.youtube.com/watch?v=WFQlh-VTPCA
 Raag Rajeshwari - https://www.youtube.com/watch?v=J_P2mK6C6g0
 Darbari kannada - https://www.youtube.com/watch?v=UADQtUyoeNg
 Darbari - https://www.youtube.com/watch?v=pH3PSL-QSsA
+
+Multani - https://www.youtube.com/watch?v=XVdJBshyjCw , https://www.youtube.com/watch?v=SNUTDGkse_c
+Gara Kanhra - https://www.youtube.com/watch?v=03QQl2tkPQ4
+Jaijaiwanti - https://www.youtube.com/watch?v=n07XK29oMVE
+Jogiya Thumri - https://www.youtube.com/watch?v=O9FWsk8arZ0
+Miyan ki malhar - https://www.youtube.com/watch?v=XmgzeMXicQc
+Bhatiyar - https://www.youtube.com/watch?v=1kt19VNgzp4
+Darbari Kanhra - https://www.youtube.com/watch?v=PEbhQc3DCh8
+Madh Kalyan - https://www.youtube.com/watch?v=uCitCtV-hdY
+Sree - https://www.youtube.com/watch?v=aiIbXMmwqwk , https://www.youtube.com/watch?v=fb4VU5zzuBw
+Nat narayani - https://www.youtube.com/watch?v=4giYXibUwqE , https://www.youtube.com/watch?v=UZREJb8Owmw
+Desi - https://www.youtube.com/watch?v=8Xhh5gLeOr4
+Kalavati - https://www.youtube.com/watch?v=E5Mo4bGUVJM
+Hem kalyan - https://www.youtube.com/watch?v=Bl6seebzuFM
+Thumri Jogiya - https://www.youtube.com/watch?v=e5_FDPrrvBs
+Malkauns - https://www.youtube.com/watch?v=Y_pdxhCfDN8 , https://www.youtube.com/watch?v=7K8LqXu5DB4 , https://www.youtube.com/watch?v=koP11Xh4WVw , https://www.youtube.com/watch?v=ShN8UJ3aB7g
+Kedara - https://www.youtube.com/watch?v=0CGDR6d4zzk
+Jogkauns - https://www.youtube.com/watch?v=8akCoOQBa_8
+Darbari - https://www.youtube.com/watch?v=-PAVx8Z2qy4 , https://www.youtube.com/watch?v=G2eG4BFrSA4
+Jog - https://www.youtube.com/watch?v=6sXnQGLVSQg
+Milan gandhar - https://www.youtube.com/watch?v=Ddbw2Mxfc94
+Abhogi kanra - https://www.youtube.com/watch?v=0iY0kRnCK-0
+Megh malhaar - https://www.youtube.com/watch?v=77uJeLNHNSI
+Basant Mukhari - https://www.youtube.com/watch?v=OeaMM3HWQIM
+Bhairavi thumri - https://www.youtube.com/watch?v=8G8TsZbAd0g
+Kafi Kanhra - https://www.youtube.com/watch?v=VwOquvvtGYc
+Marwa - https://www.youtube.com/watch?v=vunEOtiE__k
+Bairagi Todi - https://www.youtube.com/watch?v=fkh89umazSE
+Gorakh Kalyan - https://www.youtube.com/watch?v=759Cv5vmu0s
+Kanwal Todi - https://www.youtube.com/watch?v=Xfy1FnNcZ9Q
+Bhupali - https://www.youtube.com/watch?v=0aNUBsOjzPk
+Narayani - https://www.youtube.com/watch?v=Cfe7plMdLgA
+Saraswati - https://www.youtube.com/watch?v=Z-cuj_wQwkc
+Kedara - https://www.youtube.com/watch?v=OIFChuHpJtw , https://www.youtube.com/watch?v=LFIac5v4FJU
+Adana - https://www.youtube.com/watch?v=qhB4XPyhuDc
+Megh - https://www.youtube.com/watch?v=2KDOlJq13dM , https://www.youtube.com/watch?v=GfNxfWSgxhA
+Yaman Kalyan - https://www.youtube.com/watch?v=Kjfui_3Jx90 , https://www.youtube.com/watch?v=95JciphSgVA
+Desi Todi - https://www.youtube.com/watch?v=YDGtU7rLKwQ
+KhushiDhwani - https://www.youtube.com/watch?v=ySr7mdyrmZQ
+Bhatiyar - https://www.youtube.com/watch?v=dQpIa5VE9fs
+Bilaskhani Barva - https://www.youtube.com/watch?v=Y0RFNuFAT7w
+Gara - https://www.youtube.com/watch?v=OpPJM7oLqV0
+Bhageshwari - https://www.youtube.com/watch?v=uFcGyWaQYQk , https://www.youtube.com/watch?v=R2E--vsfiZ8
+Pahadi Thumri - https://www.youtube.com/watch?v=yTTrv1blxEs
+Jait - https://www.youtube.com/watch?v=orj543WjUC0
+Roopwati Kalyan - https://www.youtube.com/watch?v=KsQFamdE6sM
+Ramdasi Malhar - https://www.youtube.com/watch?v=lf0V4E7FF48
+Rageshri - https://www.youtube.com/watch?v=hAkVPy2HgHI , https://www.youtube.com/watch?v=6D477AVXDIc
+Hansadhwani - https://www.youtube.com/watch?v=fQPTy4Mx6S0
+
+
 
 Miyan ki malhar - https://www.youtube.com/watch?v=5CY2nkXknV4
 Marwa - https://www.youtube.com/watch?v=kIBl6bRzLF8&t=878s
@@ -191,10 +244,16 @@ https://www.youtube.com/watch?v=cuq9y1wbxzY
 ### Interview
 https://www.youtube.com/watch?v=vfBb1Opy3fY
 https://www.youtube.com/watch?v=xGdXvkvtBvw
-https://www.youtube.com/watch?v=iYtvgx_XIU4&t=5279s
+https://www.youtube.com/watch?v=iYtvgx_XIU4
+https://www.youtube.com/watch?v=PvzIbfanF7Q
+https://www.youtube.com/watch?v=eMo8TKEw6j4
+https://www.youtube.com/watch?v=jVSz45CiE1k
+https://www.youtube.com/watch?v=lDmLkD6Z_Qg
+https://www.youtube.com/watch?v=n87tPw9JiWc
+https://www.youtube.com/watch?v=uy2vab9IF94
 Reference - https://www.youtube.com/watch?v=Vee0M2EX9e4
 https://www.youtube.com/watch?v=95fRq8lW_sE&t=127s
-
+https://www.youtube.com/watch?v=PvzIbfanF7Q
 ### Articles
 https://scroll.in/article/962117/recordings-by-vocalist-salamat-ali-khan-remind-us-how-precise-and-beautiful-the-unimaginable-can-be
 
