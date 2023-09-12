@@ -238,7 +238,97 @@ Kaushikdhwani - https://www.youtube.com/watch?v=dBqG78x-NII
 Malkauns, Pahadi thumri - https://www.youtube.com/watch?v=pMjrzY-y1Jk
 Mat kalyan and Madhu - https://www.youtube.com/watch?v=JaPEwMPkBo0
 
+Khamaj Thumri - https://www.youtube.com/watch?v=1I1p6rjCjIY
+Pahari Thumri - https://www.youtube.com/watch?v=Vuvo0glXpfE
+Durga, Malkauns, Mishra Khamaj - https://www.youtube.com/watch?v=MsEwyj9pD2o
+Darbari Aj Samadhan More Ghar Aye Gay - https://www.youtube.com/watch?v=Oj_OKXuAtTE
+Madh kalyan part 1 - https://www.youtube.com/watch?v=aRZ9o2607l8
+Madh kalyan part 2 - https://www.youtube.com/watch?v=eV0DPH1B5r0
+Multani Kafi - https://www.youtube.com/watch?v=BV9negAekIg
+Kalavati - https://www.youtube.com/watch?v=Uv17VWXBeys
+Kaushidhwani - https://www.youtube.com/watch?v=dBqG78x-NII&t=2s
+Bilaskhani Todi - https://www.youtube.com/watch?v=eNV6pZy-eCE
+Jait - https://www.youtube.com/watch?v=OqhYGAnH3A0
+Kaushidhwani - https://www.youtube.com/watch?v=-qgFZPMNPR0
 
+Sindhi Bhairavi - https://www.youtube.com/watch?v=RYbLULD14Ug
+Jogia - https://www.youtube.com/watch?v=GziXqMz-xe8
+Pahadi - https://www.youtube.com/watch?v=GhMuzA23xHM
+Bhairavi - https://www.youtube.com/watch?v=GKlWMx9UE-o , https://www.youtube.com/watch?v=ATv6ovRMsmM
+Zilakafi Thumri - https://www.youtube.com/watch?v=LiGCJb4xZ04
+Gavati - https://www.youtube.com/watch?v=bnRqV6KoTmg
+Madhkauns - https://www.youtube.com/watch?v=LzB2Z4Rxp1s
+Durga - https://www.youtube.com/watch?v=wuxQlg3JT18 , https://www.youtube.com/watch?v=cPSWjZZmTtA
+Alhaiya Bilawal - https://www.youtube.com/watch?v=w5E3s67CWBk
+Shahana - https://www.youtube.com/watch?v=Uixq7gmMpZI
+Bahar - https://www.youtube.com/watch?v=o5CBNlP8wmE
+Hamir - https://www.youtube.com/watch?v=ztKTtCq7-pw
+Gara - https://www.youtube.com/watch?v=VG-_L_bxalw
+Hindol - https://www.youtube.com/watch?v=6v8u9Zdp2sA
+Lalit - https://www.youtube.com/watch?v=INLtS9djC2E
+Madhuvanti - https://www.youtube.com/watch?v=XTPRz1G-JGQ
+Purvi - https://www.youtube.com/watch?v=lnJ6rBlxmII
+Abhogi Kanada - https://www.youtube.com/watch?v=yeZ9UJnIEXk
+Hansadhwani - https://www.youtube.com/watch?v=DGjji3PtI9E
+Bairagi Bhairav - https://www.youtube.com/watch?v=oDfDgKFz9wQ
+Gawati Kalyan - https://www.youtube.com/watch?v=y0xHIRZolPU
+Gorakh Kalyan - https://www.youtube.com/watch?v=lHuUyfoTX2M
+Nandeshwari - https://www.youtube.com/watch?v=Qd2qf-nOsMo
+Chandrakauns - https://www.youtube.com/watch?v=e6EJJCGkCtw
+Adana - https://www.youtube.com/watch?v=Roc8oQY8Zs8 , https://www.youtube.com/watch?v=PsernTrnSM8 , https://www.youtube.com/watch?v=cAT2zFC1UXY
+Bageshree - https://www.youtube.com/watch?v=e7YJgc62bqY
+Abhogi - https://www.youtube.com/watch?v=oi2rvjtRBjA
+Rageshree - https://www.youtube.com/watch?v=tDuByBqzuUo
+Madhuvanti - https://www.youtube.com/watch?v=NqrmXFykGPA
+Ya Ali Mushkil Kusha Bairagi Todi - https://www.youtube.com/watch?v=k7DINQYTOpA
+Nayaki Kanada - https://www.youtube.com/watch?v=pP26TNvGk-4
+Bhoopali - https://www.youtube.com/watch?v=Cc7E1mx3EwQ&t=555s
+Bhimpalasi - https://www.youtube.com/watch?v=HltMpcCusmY&t=18s
+Darbar Kanada - https://www.youtube.com/watch?v=xf0HVRsUtCU
+Gunkali - https://www.youtube.com/watch?v=eONKeJWvCsY
+Darbari - https://www.youtube.com/watch?v=Or5BD3KVQJg
+Miyan ki todi - https://www.youtube.com/watch?v=yKhc_dRgYAY
+Miyan ki malhar - https://www.youtube.com/watch?v=Bo6xlIHqfok
+Chandrakauns - https://www.youtube.com/watch?v=ApGwmLCKVc0
+Lalit - https://www.youtube.com/watch?v=87F1m5e3K8s
+Gorakh Kalyan - https://www.youtube.com/watch?v=gCcr0caxfoA
+Malkauns - https://www.youtube.com/watch?v=UiQqpNUACp0
+Rageshari - https://www.youtube.com/watch?v=77Rg-dNIgLA , https://www.youtube.com/watch?v=1aXvAi3bM7o
+Abhogi - https://www.youtube.com/watch?v=3_0VldEenVU
+Nat narayan - https://www.youtube.com/watch?v=UbyK63QJ1cE
+Gaud Malhar - https://www.youtube.com/watch?v=1yPaX7VLyxg
+Megh Malhar - https://www.youtube.com/watch?v=BBD98eQZ9W0
+Yaman - https://www.youtube.com/watch?v=EPqkht8OGoE
+Jog - https://www.youtube.com/watch?v=FcxNbKCSHLM
+Yaman Kalyan - https://www.youtube.com/watch?v=UXODEBokf0I
+Madh Kalyan - https://www.youtube.com/watch?v=hT5rHfgwqIA
+Chandrakauns - https://www.youtube.com/watch?v=z8w-vH0sDGo
+Bageshri and Pahadi - https://www.youtube.com/watch?v=l4l_Ory5ms4
+Megh - https://www.youtube.com/watch?v=cG7YIPiCSQo
+Madhkauns - https://www.youtube.com/watch?v=aNF7jzS1Cbo
+Desi - https://www.youtube.com/watch?v=ACOVX4Lxl_o
+Milan gandhar - https://www.youtube.com/watch?v=9XYoToNgSEQ
+
+kalavati - https://www.youtube.com/watch?v=0RLuKYn-HFs
+Hansadwani - https://www.youtube.com/watch?v=guFyFQoejc8
+Suha Kanada - https://www.youtube.com/watch?v=KGz18qTELCg
+Durga - https://www.youtube.com/watch?v=JwFBL5uSyP4
+Mishra Khamaj - https://www.youtube.com/watch?v=xQQSA5xXW9M
+
+
+Salamat and Sharafat 2 - https://www.youtube.com/watch?v=wQqKvz4H2TM
+7 - https://www.youtube.com/watch?v=WwKf98_-wN8
+6 - https://www.youtube.com/watch?v=ZWiJtCKB9RU
+4 - https://www.youtube.com/watch?v=Awl4S5yDFIE
+1 - https://www.youtube.com/watch?v=QKOjRWFLm48
+3 - https://www.youtube.com/watch?v=CDur6eVN_4Y
+5 - https://www.youtube.com/watch?v=thbV7O-FytI
+
+
+
+https://www.youtube.com/watch?v=XLs6ru8O72M
+https://www.youtube.com/watch?v=EXyjxMvY98M
+https://www.youtube.com/watch?v=qcAMxd6ihIQ
 https://www.youtube.com/watch?v=7siDFZk0b7w
 https://www.youtube.com/watch?v=cuq9y1wbxzY
 ### Interview
@@ -254,9 +344,13 @@ https://www.youtube.com/watch?v=uy2vab9IF94
 Reference - https://www.youtube.com/watch?v=Vee0M2EX9e4
 https://www.youtube.com/watch?v=95fRq8lW_sE&t=127s
 https://www.youtube.com/watch?v=PvzIbfanF7Q
+https://www.youtube.com/watch?v=j9h7kLnw_lw
+https://www.youtube.com/watch?v=T5VHI5rqe8w
+https://www.youtube.com/watch?v=FxCORACJx2s
 ### Articles
 https://scroll.in/article/962117/recordings-by-vocalist-salamat-ali-khan-remind-us-how-precise-and-beautiful-the-unimaginable-can-be
-
+https://www.youtube.com/watch?v=j8IyHqrF5LQ
+https://www.youtube.com/watch?v=TmhMWW_w0Js
 ### Offical Records
 https://www.discogs.com/artist/2291813-Ustad-Nazakat-Ali-Khan-Ustad-Salamat-Ali-Khan
 https://www.discogs.com/release/3691206-Nazakat-Salamat-Nazakat-Salamat
