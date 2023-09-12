@@ -314,18 +314,44 @@ Hansadwani - https://www.youtube.com/watch?v=guFyFQoejc8
 Suha Kanada - https://www.youtube.com/watch?v=KGz18qTELCg
 Durga - https://www.youtube.com/watch?v=JwFBL5uSyP4
 Mishra Khamaj - https://www.youtube.com/watch?v=xQQSA5xXW9M
+Alhaiya Bilawal - https://www.youtube.com/watch?v=5LQ5V0msd00
 
+Darbari - https://www.youtube.com/watch?v=dzHl6OVm1UQ
+Kalavati - https://www.youtube.com/watch?v=eUAeZxuf98g&t=439s
+Raageshwari - https://www.youtube.com/watch?v=DpNSZD1e9Hw
+Abhogi - https://www.youtube.com/watch?v=X4iVg2l-dtY
+Gujri Todi - https://www.youtube.com/watch?v=q0DXCuqp4MI
+
+Bahar - https://www.youtube.com/watch?v=ca84rZf35do
+Sultani - https://www.youtube.com/watch?v=ta8zSaAhtXw
+Abhogi Kanada - https://www.youtube.com/watch?v=pNrj5lAn56s
+Rupavati Kalyan - https://www.youtube.com/watch?v=h6mmfwglLkM
+Madhkauns - https://www.youtube.com/watch?v=4eAcwu95AxA
+Shahana - https://www.youtube.com/watch?v=MSQncOLRUH8 , https://www.youtube.com/watch?v=VqxqdKfCZco
+
+
+Pahadi 1 - https://www.youtube.com/watch?v=Lriymul4vAQ
+Pahadi 2 - https://www.youtube.com/watch?v=nDDVQHeICO0
+Pahadi 3 - https://www.youtube.com/watch?v=-hfaPLQ1uTE
 
 Salamat and Sharafat 2 - https://www.youtube.com/watch?v=wQqKvz4H2TM
-7 - https://www.youtube.com/watch?v=WwKf98_-wN8
-6 - https://www.youtube.com/watch?v=ZWiJtCKB9RU
-4 - https://www.youtube.com/watch?v=Awl4S5yDFIE
-1 - https://www.youtube.com/watch?v=QKOjRWFLm48
-3 - https://www.youtube.com/watch?v=CDur6eVN_4Y
-5 - https://www.youtube.com/watch?v=thbV7O-FytI
+Salamat and Sharafat 7 - https://www.youtube.com/watch?v=WwKf98_-wN8
+Salamat and Sharafat 6 - https://www.youtube.com/watch?v=ZWiJtCKB9RU
+Salamat and Sharafat 4 - https://www.youtube.com/watch?v=Awl4S5yDFIE
+Salamat and Sharafat 1 - https://www.youtube.com/watch?v=QKOjRWFLm48
+Salamat and Sharafat 3 - https://www.youtube.com/watch?v=CDur6eVN_4Y
+Salamat and Sharafat 5 - https://www.youtube.com/watch?v=thbV7O-FytI
 
+Kafi Khwaja Fareed - https://www.youtube.com/watch?v=wGajl7Lr6Sc
+Kafi Bulleh shah - ek ranjha mainoo lori daa - https://www.youtube.com/watch?v=7EkV5OYJ3bE
+Kafi Bulleh shah - aao sayoon ral dayo wadhai - https://www.youtube.com/watch?v=8McpQaG5Doc
 
+Yaare man bia - https://www.youtube.com/watch?v=frC-ZZkh0DA
+Hem kalyan - https://www.youtube.com/watch?v=hWRC1P6t3hc
 
+https://www.youtube.com/watch?v=DZAL45n1uB0
+https://www.youtube.com/watch?v=7IIHpVULJtg
+https://www.youtube.com/watch?v=8Lalr2A3AKg
 https://www.youtube.com/watch?v=XLs6ru8O72M
 https://www.youtube.com/watch?v=EXyjxMvY98M
 https://www.youtube.com/watch?v=qcAMxd6ihIQ
