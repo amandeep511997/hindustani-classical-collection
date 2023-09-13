@@ -329,6 +329,29 @@ Rupavati Kalyan - https://www.youtube.com/watch?v=h6mmfwglLkM
 Madhkauns - https://www.youtube.com/watch?v=4eAcwu95AxA
 Shahana - https://www.youtube.com/watch?v=MSQncOLRUH8 , https://www.youtube.com/watch?v=VqxqdKfCZco
 
+Malkauns - https://www.youtube.com/watch?v=2pVaimjs99w
+Kamod - https://www.youtube.com/watch?v=n1TvfIaB1Xs
+Yaman Kalyan - https://www.youtube.com/watch?v=YEohPX4IMDs
+Kedar - https://www.youtube.com/watch?v=GyjqUZMqDjQ
+Des - Ambuwa ki daar pe koyal bole thumri - https://www.youtube.com/watch?v=OpFrNWivcpQ
+Shankara - https://www.youtube.com/watch?v=v79uTVEEzJE
+Malkauns - https://www.youtube.com/watch?v=IDzBRNldG2s
+Miyan ki malhar - https://www.youtube.com/watch?v=bAFkJyi7cNQ
+Bhoopali - https://www.youtube.com/watch?v=CmbwungDDYM&t=1876s
+Marwa - https://www.youtube.com/watch?v=vqUu8Z1KWqU
+Bhatiyar - https://www.youtube.com/watch?v=TkyAe6sIItc
+Darbari - https://www.youtube.com/watch?v=gsideQbFiDo
+Megh - https://www.youtube.com/watch?v=Utl_vvhk9-M , https://www.youtube.com/watch?v=Ake1Fuu89O4
+Bageshri - https://www.youtube.com/watch?v=eq1soSiwPKE
+Madhkauns - https://www.youtube.com/watch?v=RSVQUA1P4XY
+Bhimpilasi - https://www.youtube.com/watch?v=jciFciG6xWU
+Jaijaivanti - https://www.youtube.com/watch?v=stcd1C-t1Pg
+Jogiya - Balma nahi ghar thumri - https://www.youtube.com/watch?v=eBgDtaMtMOc
+Kaushidhwani - https://www.youtube.com/watch?v=fZEOuvU0_O8
+Rageshri - https://www.youtube.com/watch?v=6DHHlwt3GqM , https://www.youtube.com/watch?v=mkbk1sKW_-U
+Ramdasi malhar - https://www.youtube.com/watch?v=sxuTjNbKhy8 , https://www.youtube.com/watch?v=Qp6v43pwHqg
+
+
 
 Pahadi 1 - https://www.youtube.com/watch?v=Lriymul4vAQ
 Pahadi 2 - https://www.youtube.com/watch?v=nDDVQHeICO0
@@ -349,6 +372,33 @@ Kafi Bulleh shah - aao sayoon ral dayo wadhai - https://www.youtube.com/watch?v=
 Yaare man bia - https://www.youtube.com/watch?v=frC-ZZkh0DA
 Hem kalyan - https://www.youtube.com/watch?v=hWRC1P6t3hc
 
+Puriya Dhanashree and Basant - https://www.youtube.com/watch?v=tS5t56itdko
+Vimal or Vibhari - https://www.youtube.com/watch?v=IL5BLMi76a4
+Milan gandhar - https://www.youtube.com/watch?v=ez0PZ_orACM
+Bairagi todi - https://www.youtube.com/watch?v=EMmQ5htZ6cU
+Miya ki todi, malkauns, saraswati - https://www.youtube.com/watch?v=sooDpnBxMj0
+Puriya dhanashree - https://www.youtube.com/watch?v=JfOn2skIIz4
+Darbari Kanada - https://www.youtube.com/watch?v=Dbl9ee7SXFI
+Kailash Bhairav - https://www.youtube.com/watch?v=V7Y14y1Oc18 , https://www.youtube.com/watch?v=V7Y14y1Oc18
+Marwa, shamvati, pahadi - https://www.youtube.com/watch?v=ucE7hktbh4s 
+Darbari Kanada - https://www.youtube.com/watch?v=VzoleBs8K3M
+Chandrakauns - https://www.youtube.com/watch?v=4upMiEr0r6o
+Nandeshwari - https://www.youtube.com/watch?v=O6RfUARQsP0
+Shamvati - https://www.youtube.com/watch?v=p7PU3HMW9IA
+Bairagi Bhairav - https://www.youtube.com/watch?v=kWu4BPvnW7c
+Nandeshwari - https://www.youtube.com/watch?v=O6RfUARQsP0
+Ahir bhairav, Kailash Bhairav, MadhKalyan - https://www.youtube.com/watch?v=wWo1G99Jd1s
+Nandeshwari - https://www.youtube.com/watch?v=aBGtml40BsM
+Madhkauns - https://www.youtube.com/watch?v=J9GUz20Drns
+Bairagi Bhairav - https://www.youtube.com/watch?v=ZBPz82_gKn4
+Bairagi Bhairav - https://www.youtube.com/watch?v=UGROrSMdlPg
+Madhkauns - https://www.youtube.com/watch?v=YtC8qWEgwrU
+Megh - https://www.youtube.com/watch?v=26WEuNQfOmM
+Poorvi - https://www.youtube.com/watch?v=KqTy11Z8p_M
+Kanwal Todi - https://www.youtube.com/watch?v=8gJY7Z8USdA
+
+Drupad - https://www.youtube.com/watch?v=veo5ewAs8K4
+
 https://www.youtube.com/watch?v=DZAL45n1uB0
 https://www.youtube.com/watch?v=7IIHpVULJtg
 https://www.youtube.com/watch?v=8Lalr2A3AKg
@@ -357,6 +407,55 @@ https://www.youtube.com/watch?v=EXyjxMvY98M
 https://www.youtube.com/watch?v=qcAMxd6ihIQ
 https://www.youtube.com/watch?v=7siDFZk0b7w
 https://www.youtube.com/watch?v=cuq9y1wbxzY
+https://www.youtube.com/watch?v=5EXno_9DJI8
+https://www.youtube.com/watch?v=249weYfyDp0
+https://www.youtube.com/watch?v=hh2HTUYFyy8
+https://www.youtube.com/watch?v=k6QrNftYNEc
+https://www.youtube.com/watch?v=Hi7CTEsaUZc
+https://www.youtube.com/watch?v=kWu4BPvnW7c
+https://www.youtube.com/watch?v=vCAhLC94wrM
+https://www.youtube.com/watch?v=2CFbL1rTmUk
+https://www.youtube.com/watch?v=2Ek-Z-p1w6Q
+https://www.youtube.com/watch?v=2Ek-Z-p1w6Q
+https://www.youtube.com/watch?v=p7PU3HMW9IA
+https://www.youtube.com/watch?v=ZClJEyayaPc
+https://www.youtube.com/watch?v=_zZcJ9XqWEE
+https://www.youtube.com/watch?v=eI7D-Bv4Koo
+https://www.youtube.com/watch?v=_3Pd_ButluI
+https://www.youtube.com/watch?v=ok97Hrh_-kk
+https://www.youtube.com/watch?v=2CFbL1rTmUk
+https://www.youtube.com/watch?v=cJ4gf_s-kp8
+https://www.youtube.com/watch?v=2tBTgRMV3zs
+https://www.youtube.com/watch?v=F5ahHvj3-yE
+https://www.youtube.com/watch?v=wS1p4kboX0w
+https://www.youtube.com/watch?v=X7tYh7umTgI
+https://www.youtube.com/watch?v=BjPy3oiTaKE
+https://www.youtube.com/watch?v=OUbxUpx8iNw
+https://www.youtube.com/watch?v=FyS2u3vCGa4
+https://www.youtube.com/watch?v=wS1p4kboX0w
+https://www.youtube.com/watch?v=hkPtqfNX1fI
+https://www.youtube.com/watch?v=X7tYh7umTgI
+https://www.youtube.com/watch?v=QrEO_siDfsg
+https://www.youtube.com/watch?v=BjPy3oiTaKE
+https://www.youtube.com/watch?v=esDrAIW9lpY
+https://www.youtube.com/watch?v=-hLuS_qHtkU
+https://www.youtube.com/watch?v=X3q4liGe2T8
+https://www.youtube.com/watch?v=ORFyrTJaKHE
+https://www.youtube.com/watch?v=X_iV0F8cdU0
+https://www.youtube.com/watch?v=VZDtQ-_Gygc
+https://www.youtube.com/watch?v=LDqLi4E2DBU
+https://www.youtube.com/watch?v=Rf3LTGHB72w
+https://www.youtube.com/watch?v=RcuekVGh6v0
+https://www.youtube.com/watch?v=UQGjLsFIUEE
+https://www.youtube.com/watch?v=T0_erRCoyik
+https://www.youtube.com/watch?v=10Q1aVmqWrw
+https://www.youtube.com/watch?v=6Pug09BCUmA
+https://www.youtube.com/watch?v=CQ58zu1WjuM
+https://www.youtube.com/watch?v=_ctPF-pWHLU
+https://www.youtube.com/watch?v=KYZwyJSmkaI
+https://www.youtube.com/watch?v=T0_erRCoyik
+https://www.youtube.com/watch?v=KqZ_QHhwd24
+https://www.youtube.com/watch?v=ll1LLLq7a68
 ### Interview
 https://www.youtube.com/watch?v=vfBb1Opy3fY
 https://www.youtube.com/watch?v=xGdXvkvtBvw
