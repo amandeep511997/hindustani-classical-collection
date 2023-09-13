@@ -39,7 +39,7 @@ Raag Jog - https://www.youtube.com/watch?v=WFQlh-VTPCA
 Raag Rajeshwari - https://www.youtube.com/watch?v=J_P2mK6C6g0
 Darbari kannada - https://www.youtube.com/watch?v=UADQtUyoeNg
 Darbari - https://www.youtube.com/watch?v=pH3PSL-QSsA
-
+Darbari Kanada - https://www.youtube.com/watch?v=jjGySpD3npY
 Multani - https://www.youtube.com/watch?v=XVdJBshyjCw , https://www.youtube.com/watch?v=SNUTDGkse_c
 Gara Kanhra - https://www.youtube.com/watch?v=03QQl2tkPQ4
 Jaijaiwanti - https://www.youtube.com/watch?v=n07XK29oMVE
@@ -89,8 +89,65 @@ Ramdasi Malhar - https://www.youtube.com/watch?v=lf0V4E7FF48
 Rageshri - https://www.youtube.com/watch?v=hAkVPy2HgHI , https://www.youtube.com/watch?v=6D477AVXDIc
 Hansadhwani - https://www.youtube.com/watch?v=fQPTy4Mx6S0
 
+Kafi - Gaya rol rawal wich rohi 1 - https://www.youtube.com/watch?v=tgzIqUlCUpY
+Kafi - Gaya rol rawal wich rohi 2 - https://www.youtube.com/watch?v=8Q6qqXEIudY
+Hun tay ranjhan a Var wairay - https://www.youtube.com/watch?v=pFR6a2Cn7Oo
+Kafi Ranjha ranjha kerdi ni main - https://www.youtube.com/watch?v=NvUbT6kNxn0
+Kafi Sat Sik Ghair Khuda- https://www.youtube.com/watch?v=Q5AjAC1lSF0
+
+Pahadi and Tilang - https://www.youtube.com/watch?v=oaHlXxpzqIs
+Gawati and Durga - https://www.youtube.com/watch?v=fbOO8aE7fBE
+Bageshri - https://www.youtube.com/watch?v=2cuVbGC94QM
+Darbari Kanada - https://www.youtube.com/watch?v=p2JxMsBxzhY
+Puriya Kalyan - https://www.youtube.com/watch?v=qov9ZLlHPjw&t=3s
+Madh Kalyan - https://www.youtube.com/watch?v=2-PWWBQMyhk
+Bairagi - https://www.youtube.com/watch?v=8krYVe3C7Js&t=4187s
+Darbari - https://www.youtube.com/watch?v=I8c5Qivw_Cg
+Kaunsi Kanada - https://www.youtube.com/watch?v=QhpDSkEI8dA
+Malkauns - https://www.youtube.com/watch?v=nTec47vgdFg
+Bhinna Shadja - https://www.youtube.com/watch?v=6DwnGwBtfX4&t=1043s
+Shamvati - https://www.youtube.com/watch?v=x6fo1HSNpHs
+Lalit - https://www.youtube.com/watch?v=V1EERtQuNPI
+Suha Kanada - https://www.youtube.com/watch?v=r_8Zkbk2cdo
+Gawati - https://www.youtube.com/watch?v=nxuYi4tQ6Is
+Todi Part1 - https://www.youtube.com/watch?v=wQrOst-NK2g
+Todi Part2 - https://www.youtube.com/watch?v=qmeJF-FyJk0
+Kafi Kanada - https://www.youtube.com/watch?v=36mZWD2QhfU
+Birag Todi - https://www.youtube.com/watch?v=xf8GBPugqxE
+Marwa - https://www.youtube.com/watch?v=kIBl6bRzLF8
+Malkauns - https://www.youtube.com/watch?v=DxR8ydvg1tI
+Hamir Kalyan - https://www.youtube.com/watch?v=6QAhy1S7IOI
+Malkauns - https://www.youtube.com/watch?v=xqUTpEBlyjs
+Roopavathi Kalyan - https://www.youtube.com/watch?v=Uc1vN7wdQ6o
+Gorakh Kalyan and Adana - https://www.youtube.com/watch?v=mWIX5sbfPdM
+Rupawati Kalyan - https://www.youtube.com/watch?v=Sbl8Xr2_vpM
+Rageshri - https://www.youtube.com/watch?v=vKBfTzrAvlA
+Miyan ki malhar - https://www.youtube.com/watch?v=4XS0hwQDBBk
+Abhogi Kanra - https://www.youtube.com/watch?v=2gFjxlbLM6o
+Ramdasi Malhar - https://www.youtube.com/watch?v=HUTu36qptok
+Shamvati - https://www.youtube.com/watch?v=dZe_ipGrZIw
+Saraswati Kalyan - https://www.youtube.com/watch?v=YVsDgW4t6YI
+Rajeshwari - https://www.youtube.com/watch?v=RjaRdZu0mlc
+EALP 1264 - https://www.youtube.com/watch?v=cZGBjASz6n4
+Saraswati - https://www.youtube.com/watch?v=RFEb_VugfaQ
+Suha Kanada and Adana - https://www.youtube.com/watch?v=RP5SYSxde2E
+CLP 1308 - Kalavati and Darbari - https://www.youtube.com/watch?v=L2Kj31gXDR8
+Miyan Malhar - https://www.youtube.com/watch?v=G3jNqk1wvG0
+Madh Kalyan - https://www.youtube.com/watch?v=rf1i2H-rgGk
+Bilaskhani Barwa - https://www.youtube.com/watch?v=y422a0y1QAk
+Ema Kalyan, Chandrakauns, Thumri - https://www.youtube.com/watch?v=7Ok7FNzmcQc
+Navrooz Kalyan, Darbari and Miyan Malhar - https://www.youtube.com/watch?v=1eT8VZgPTzI
+Megh - https://www.youtube.com/watch?v=5lcVALlZdvo
+Hema - https://www.youtube.com/watch?v=CFy0uRYm5NQ
+Rageshri and Gujri Todi - https://www.youtube.com/watch?v=GSDq51vIWKU
+Ramdasi Malhar - https://www.youtube.com/watch?v=VH7iWYLAR9Q
+Hamsadhwani, Malkauns Thumri - https://www.youtube.com/watch?v=Gvgnn4lrH9k
+Hamsadhwani, Malkauns Thumri -https://www.youtube.com/watch?v=EXxU9NTR3Ws
 
 
+
+Hunsdhwani - https://www.youtube.com/watch?v=tMUlZzcQ_wo
+Madhkauns - https://www.youtube.com/watch?v=2c90Z_udpNg
 Miyan ki malhar - https://www.youtube.com/watch?v=5CY2nkXknV4
 Marwa - https://www.youtube.com/watch?v=kIBl6bRzLF8&t=878s
 Yaman Kalyan - https://www.youtube.com/watch?v=u6rLWbXa4e8
@@ -101,7 +158,6 @@ Nandeshwari - https://www.youtube.com/watch?v=nKr25n79Ubg
 nandeshwari - https://www.youtube.com/watch?v=4ZTttScOSVw
 nandeshwari  -https://www.youtube.com/watch?v=MGSz6RTSbKY&t=1s
 
-https://www.youtube.com/watch?v=DmkAD93679M
 Puriya Kalyan - https://www.youtube.com/watch?v=qov9ZLlHPjw
 Puriya Dhanasari and Basant - https://www.youtube.com/watch?v=QbAOMVXqU1E
 Raag raageshwari, darbari, pahari - https://www.youtube.com/watch?v=gOr6lio_KZ0
@@ -118,6 +174,8 @@ Gorakh kalyan - https://www.youtube.com/watch?v=FY-P2puN3p0
 Chandrakauns - https://www.youtube.com/watch?v=YgSY9dFiEPo
 Bhairavi - https://www.youtube.com/watch?v=abkFxU16AOM
 
+Sanwal Mor Muharan - https://www.youtube.com/watch?v=43-eSCU4tAo
+Hunsdhwani - https://www.youtube.com/watch?v=5RX4H_Lsb8Q
 Miyan Ki malhar - https://www.youtube.com/watch?v=kSymRW3pevg&t=26s, https://www.youtube.com/watch?v=XCNNdIsE_yU
 
 Kafi Ayo ri sayoon - https://www.youtube.com/watch?v=9xyeCi0hZow , https://www.youtube.com/watch?v=yMUb3u86wk0
@@ -353,6 +411,7 @@ Ramdasi malhar - https://www.youtube.com/watch?v=sxuTjNbKhy8 , https://www.youtu
 
 
 
+
 Pahadi 1 - https://www.youtube.com/watch?v=Lriymul4vAQ
 Pahadi 2 - https://www.youtube.com/watch?v=nDDVQHeICO0
 Pahadi 3 - https://www.youtube.com/watch?v=-hfaPLQ1uTE
@@ -396,6 +455,56 @@ Madhkauns - https://www.youtube.com/watch?v=YtC8qWEgwrU
 Megh - https://www.youtube.com/watch?v=26WEuNQfOmM
 Poorvi - https://www.youtube.com/watch?v=KqTy11Z8p_M
 Kanwal Todi - https://www.youtube.com/watch?v=8gJY7Z8USdA
+
+Khamaj - https://www.youtube.com/watch?v=tbZ6fTT07p4
+Adana - https://www.youtube.com/watch?v=VoXIqilthPs , https://www.youtube.com/watch?v=kzpySlZY_gg
+Gujri Todi - https://www.youtube.com/watch?v=OC3MmClJtaY
+Alhaiya Bilawal - https://www.youtube.com/watch?v=uGLl0j9w9qk
+Bhoopali - https://www.youtube.com/watch?v=7bIcxhefEEg
+Darbari Kanada - https://www.youtube.com/watch?v=GzP_glm9v0A
+Miyan ki todi - https://www.youtube.com/watch?v=MpZV9cpWu5o
+Malkauns - https://www.youtube.com/watch?v=a27Aw5l4J2U , https://www.youtube.com/watch?v=xAHmxezW1vI , https://www.youtube.com/watch?v=xAHmxezW1vI
+Desi Todi - https://www.youtube.com/watch?v=Z_hLwHxpnkc
+Bageshri - https://www.youtube.com/watch?v=s_TJFs5r7xY , https://www.youtube.com/watch?v=ZMLifj3h9GA
+Multani - https://www.youtube.com/watch?v=XssBPcv-Exg
+Bahar - https://www.youtube.com/watch?v=gFRom-YDN6U
+Rageshree - https://www.youtube.com/watch?v=xGiZpxLlhmY
+Sudh Malhar - https://www.youtube.com/watch?v=QyszxuEjHLw
+Jaijaiwanti - https://www.youtube.com/watch?v=_ozjRK0FQkk
+Megh Malhar - https://www.youtube.com/watch?v=7merIh93Bq4 , https://www.youtube.com/watch?v=7merIh93Bq4
+
+Kafi 16 - https://www.youtube.com/watch?v=fE1ZtmClGfQ
+Kafi 17 - https://www.youtube.com/watch?v=H92RdUeSsRI
+Kafi 15 - https://www.youtube.com/watch?v=43IX8DiLTjo
+
+
+Compilation 1 - https://www.youtube.com/watch?v=qi0KnzIpq-8 , https://www.youtube.com/watch?v=r9ypa9shlpI
+4 - https://www.youtube.com/watch?v=dz5KIhJHs5o
+5 - https://www.youtube.com/watch?v=91dq2mTf0bA
+2 - https://www.youtube.com/watch?v=G6HyHZBu9U4
+2a - https://www.youtube.com/watch?v=eMS1wt48DDo , https://www.youtube.com/watch?v=mKCm6mAze2w
+2b - https://www.youtube.com/watch?v=-kZTxypj7vY
+2c - https://www.youtube.com/watch?v=sj-86sPCjZM
+2d - https://www.youtube.com/watch?v=STyGOU6ACNs
+2e - https://www.youtube.com/watch?v=jzn_2TvUQHk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Drupad - https://www.youtube.com/watch?v=veo5ewAs8K4
 
@@ -472,6 +581,9 @@ https://www.youtube.com/watch?v=PvzIbfanF7Q
 https://www.youtube.com/watch?v=j9h7kLnw_lw
 https://www.youtube.com/watch?v=T5VHI5rqe8w
 https://www.youtube.com/watch?v=FxCORACJx2s
+https://www.youtube.com/watch?v=WTNRX0GRv6M
+https://www.youtube.com/watch?v=1xXy8Gw2R_0
+https://www.youtube.com/watch?v=1UjL6lv7Y1g
 ### Articles
 https://scroll.in/article/962117/recordings-by-vocalist-salamat-ali-khan-remind-us-how-precise-and-beautiful-the-unimaginable-can-be
 https://www.youtube.com/watch?v=j8IyHqrF5LQ
