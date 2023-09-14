@@ -488,23 +488,23 @@ Compilation 1 - https://www.youtube.com/watch?v=qi0KnzIpq-8 , https://www.youtub
 2d - https://www.youtube.com/watch?v=STyGOU6ACNs
 2e - https://www.youtube.com/watch?v=jzn_2TvUQHk
 
+Abhogi Kanhra - https://www.youtube.com/watch?v=JobD0znjLCs
+Pahari - Thumri Torey Naino ne Jado kiya - https://www.youtube.com/watch?v=HWOOD7M0FLo
+Saraswati - https://www.youtube.com/watch?v=vqh6-nI7tFc
+Desi - https://www.youtube.com/watch?v=EQeKtz02OGM&t=1s
+Rageshree - https://www.youtube.com/watch?v=HkNrlWt0Il8 , https://www.youtube.com/watch?v=66xiqgKobp8
+Bhoopali - https://www.youtube.com/watch?v=e95HDnxKf3g
+Darbari Kanada - https://www.youtube.com/watch?v=PB62WGflDKs , https://www.youtube.com/watch?v=hAfeYArhgDw
+Jaunpuri - https://www.youtube.com/watch?v=9GOdfJyLqgU
+Basant - https://www.youtube.com/watch?v=Q1O20IfG0XY
+Jhinjhoti - Thumri - Nadiya Kinare mora gaon - https://www.youtube.com/watch?v=Pjd4I35zfiA
+Nandeshwari - https://www.youtube.com/watch?v=nKr25n79Ubg
+Gujri Todi - https://www.youtube.com/watch?v=5fmmyGhjp8g
 
 
+Khamaj Thumri - Dil le ke badnaam kiya re - https://www.youtube.com/watch?v=iHu3rq9RJMI
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Kafi - Khawaja Gulam Fareed - https://www.youtube.com/watch?v=X_DhIicqB3g
 
 Drupad - https://www.youtube.com/watch?v=veo5ewAs8K4
 
@@ -576,7 +576,7 @@ https://www.youtube.com/watch?v=lDmLkD6Z_Qg
 https://www.youtube.com/watch?v=n87tPw9JiWc
 https://www.youtube.com/watch?v=uy2vab9IF94
 Reference - https://www.youtube.com/watch?v=Vee0M2EX9e4
-https://www.youtube.com/watch?v=95fRq8lW_sE&t=127s
+https://www.youtube.com/watch?v=95fRq8lW_sE
 https://www.youtube.com/watch?v=PvzIbfanF7Q
 https://www.youtube.com/watch?v=j9h7kLnw_lw
 https://www.youtube.com/watch?v=T5VHI5rqe8w
@@ -584,6 +584,7 @@ https://www.youtube.com/watch?v=FxCORACJx2s
 https://www.youtube.com/watch?v=WTNRX0GRv6M
 https://www.youtube.com/watch?v=1xXy8Gw2R_0
 https://www.youtube.com/watch?v=1UjL6lv7Y1g
+https://www.youtube.com/watch?v=vfBb1Opy3fY
 ### Articles
 https://scroll.in/article/962117/recordings-by-vocalist-salamat-ali-khan-remind-us-how-precise-and-beautiful-the-unimaginable-can-be
 https://www.youtube.com/watch?v=j8IyHqrF5LQ
