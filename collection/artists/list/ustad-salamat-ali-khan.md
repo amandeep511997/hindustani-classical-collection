@@ -1,10 +1,14 @@
 ---
 layout: default
 title: 1934 - Ustad Salamat Ali Khan
+parent: Artists
 has_children: false
 ---
 
-![image](https://github.com/amandeep511997/hindustani-classical-collection/assets/19922632/68ca3c18-da5f-4788-ad39-fa05c7f43cd9)
+![Nazakat-Salamat](../../../../../assets/images/artists/1934-ustad-salamat-ali-khan/ustad-nazakat-salamat-ali-khan.jpg)
+![Salamat](../../../../../assets/images/artists/1934-ustad-salamat-ali-khan/ustad-salamat-ali-khan.jpg)
+![Salamat-Sharafat](../../../../../assets/images/artists/1934-ustad-salamat-ali-khan/ustad-salamat-sharafat-ali-khan.jpg)
+
 
 | Raag          | Thaat   | Record                                       | About Record (Runtime, Type, Year, Place, Live)                                     | By                                                | Accompaniments                                 |
 | ------------- | ------- | -------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------- | ---------------------------------------------- |
