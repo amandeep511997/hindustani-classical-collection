@@ -12,6 +12,9 @@ has_children: false
 
 
 ## Contents
+{: .note }
+Note: This is just an aggregation of content related to the artist, we do not claim ownership of any records. Any feedback, suggestions are welcomed.
+
 1. Khayal and Tarana
 
 
@@ -42,15 +45,50 @@ has_children: false
 
 ## 1. Khayal and Tarana
 
-| Raag          | Thaat   | Record                                       | About Record (Runtime, Type, Year, Place, Live)                                     | By                                                | Accompaniments                                 |
-| ------------- | ------- | -------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------- | ---------------------------------------------- |
-| Abhogi        | Kafi    | [Youtube](https://www.youtube.com/watch?v=3_0VldEenVU) | Runtime: 34min; Type: Khayal, Tarana                                                | Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan |
-| Abhogi        | Kafi    | [Youtube](https://www.youtube.com/watch?v=oi2rvjtRBjA) | Runtime: 120min; Type: Khayal, Tarana                                               | Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan |
-| Abhogi Kanada | Kafi    | [Youtube](https://www.youtube.com/watch?v=2gFjxlbLM6o) | Runtime: 41min; Type: Khayal, Tarana; Year: 1991; Live                              | Ustad Salamat Ali Khan & Ustad Sharafat Ali Khan  | Sarangi: Asif Khan; Tabla: Manmohan Singh      |
-| Abhogi Kanada | Kafi    | [Youtube](https://www.youtube.com/watch?v=pNrj5lAn56s) | Runtime: 40min; Type: Khayal, Tarana; Place: Afganistan                             | Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan |
-| Abhogi Kanada | Kafi    | [Youtube](https://www.youtube.com/watch?v=yeZ9UJnIEXk) | Runtime: 59min; Type: Khayal, Tarana                                                | Ustad Salamat Ali Khan & Ustad Sharafat Ali Khan  | Sarangi: Allah Rakha; Tabla: Ghulam Abbas      |
-| Abhogi Kanhra | Kafi    | [Youtube](https://www.youtube.com/watch?v=JobD0znjLCs) | Runtime: 34min; Type: Khayal, Tarana                                                | Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan | Sarangi: Zahoori Khan; Tabla: Allah Ditta Khan |
-| Adana         | Asavari | [Youtube](https://www.youtube.com/watch?v=cAT2zFC1UXY) | Runtime: 100min; Type: Khayal, Tarana                                               | Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan |
-| Adana         | Asavari | [Youtube](https://www.youtube.com/watch?v=Hnw3BF08xSk) | Runtime: 33min; Type: Khayal, Tarana; Place: Varanasi; Year: 1950s                  | Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan | Tabla: Pt Anokhelal                            |
-| Adana         | Asavari | [Youtube](https://www.youtube.com/watch?v=kzpySlZY_gg) | Runtime: 14min; Type: Khayal, Tarana                                                | Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan | Sarangi: Nathoo Khan; Tabla: Allah Ditta       |
-| Adana         | Asavari | [Youtube](https://www.youtube.com/watch?v=mWIX5sbfPdM) | Runtime: 30min(Starts: 1:37:00); Type: Khayal, Tarana; Place: Varanasi; Year: 1960s | Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan |
+|Raag|Thaat|Record|About Record (Runtime, Type, Year, Place, Live)|By|Accompaniments|
+|:----|:----|:----|:----|:----|:----|
+|Abhogi |Kafi|Youtube|Runtime: 34min; Type: Khayal, Tarana|Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan| |
+|Abhogi |Kafi|Youtube|Runtime: 120min; Type: Khayal, Tarana|Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan| |
+|Abhogi Kanada |Kafi|Youtube|Runtime: 41min; Type: Khayal, Tarana; Year: 1991; Live|Ustad Salamat Ali Khan & Ustad Sharafat Ali Khan|Sarangi: Asif Khan; Tabla: Manmohan Singh|
+|Abhogi Kanada |Kafi|Youtube|Runtime: 40min; Type: Khayal, Tarana; Place: Afganistan|Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan| |
+|Abhogi Kanada |Kafi|Youtube|Runtime: 59min; Type: Khayal, Tarana|Ustad Salamat Ali Khan & Ustad Sharafat Ali Khan|Sarangi: Allah Rakha; Tabla: Ghulam Abbas|
+|Abhogi Kanhra |Kafi|Youtube|Runtime: 34min; Type: Khayal, Tarana|Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan|Sarangi: Zahoori Khan; Tabla: Allah Ditta Khan|
+|Adana |Asavari|Youtube|Runtime: 100min; Type: Khayal, Tarana|Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan| |
+|Adana |Asavari|Youtube|Runtime: 33min; Type: Khayal, Tarana; Place: Varanasi; Year: 1950s|Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan|Tabla: Pt AnokhelalAdana |Asavari|Youtube|Runtime: 14min; Type: Khayal, Tarana|Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan|Sarangi: Nathoo Khan; Tabla: Allah Ditta|
+|Adana |Asavari|Youtube|Runtime: 128min(Starts: 1:37:00); Type: Khayal, Tarana; Place: Varanasi; Year: 1960s|Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan| |
+|Adana |Asavari|Youtube|Runtime: 51min(Starts: 30:00); Type: Khayal, Tarana|Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan| |
+|Adana |Asavari|Youtube|Runtime: 120min; Type: Khayal, Tarana|Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan| |
+|Adana |Asavari|Youtube|Runtime: 33min; Type: Khayal, Tarana; Place: Varanasi; Year: 1950s|Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan| |
+|Adana |Asavari|Youtube|Runtime: 35min; Type: Khayal, Tarana; Place: India; Year: 1951|Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan| |
+|Adana |Asavari|Youtube|Runtime: 31min(Starts: ); Type: Khayal, Tarana; Place: Bombay; Year: 1989|Ustad Salamat Ali Khan & Ustad Sharafat Ali Khan|Tabla: Allah Rakha|
+|Adana |Asavari|Youtube|Runtime: 14min; Type: Khayal|Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan|Sarangi: Nathoo Khan; Tabla: Allah Ditta|
+|Ahir Bhairav |Bhairav|Youtube|Runtime: 25min; Type: Khayal, Tarana|Ustad Salamat Ali Khan & Ustad Sharafat Ali Khan| |
+|Ahir bhairav |Bhairav|Youtube|Runtime: 156min(Starts: 0); Type: Khayal, Tarana|Ustad Salamat Ali Khan & Ustad Sharafat Ali Khan| |
+|Alhaiya Bilaval |Bilaval|Youtube|Runtime: 15min; Type: Khayal|Ustad Salamat Ali Khan| |
+|Alhaiya Bilaval |Bilaval|Youtube|Runtime: 10min; Type: Khayal|Ustad Salamat Ali Khan| |
+|Alhaiya Bilaval |Bilaval|Youtube|Runtime: 12min; Type: Khayal|Ustad Salamat Ali Khan|Sarangi: Nazim Ali; Tabla: Shaukat HussainBageshree |Kafi|Youtube|Runtime: 35min; Type: Khayal, Tarana|Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan| |
+|Bageshree |Kafi|Youtube|Runtime: 10min; Type: Khayal|Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan| |
+|Bageshree |Kafi|Youtube|Runtime: 45min; Type: Khayal, Tarana|Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan| |
+|Bageshree |Kafi|Youtube|Runtime: 45min; Type: Khayal, Tarana; Place: Kabul; Year: 1964|Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan| |
+|Bageshree |Kafi|Youtube|Runtime: 34min; Type: Khayal, Tarana|Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan| |
+|Bageshree |Kafi|Youtube|Runtime: 20min(Starts: 0); Type: Khayal|Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan| |
+|Bageshree |Kafi|Youtube|Runtime: 14min; Type: Khayal|Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan|Sarangi: Nathoo Khan; Tabla: Talib Hussain|
+|Bageshree |Kafi|Youtube|Runtime: 22min; Type: Khayal|Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan| |
+|Bageshree |Kafi|Youtube|Runtime: 50min; Type: Khayal, Tarana|Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan| |
+|Bageshree |Kafi|Youtube|Runtime: 14min; Type: Khayal|Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan|Sarangi: Nathoo Khan; Tabla: Talib Hussain|
+|Bahar |Kafi|Youtube|Runtime: 12min; Type: Khayal|Ustad Salamat Ali Khan|Sarangi: Nathoo Khan; Tabla: Talib Hussain|
+|Bahar |Kafi|Youtube|Runtime: 10min; Type: Khayal|Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan| |
+|Bahar |Kafi|Youtube|Runtime: 10min; Type: Khayal|Ustad Salamat Ali Khan| |
+|Bairagi |Bhairav|Youtube|Runtime: 83min; Type: Khayal, Tarana|Ustad Salamat Ali Khan & Ustad Sharafat Ali Khan| |
+|Bairagi Bhairav |Bhairav|Youtube|Runtime: 41min; Type: Khayal, Tarana|Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan| |
+|Bairagi Bhairav |Bhairav|Youtube|Runtime: 25min; Type: Khayal, Tarana; Year: 1970|Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan| |
+|Bairagi Bhairav |Bhairav|Youtube|Runtime: 26min; Type: Khayal, Tarana|Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan| |
+|Bairagi Bhairav |Bhairav|Youtube|Runtime: 46min; Type: Khayal, Tarana|Ustad Salamat Ali Khan & Ustad Sharafat Ali Khan| |
+|Bairagi Bhairav |Bhairav|Youtube|Runtime: 46min; Type: Khayal|Ustad Salamat Ali Khan|Tabla: Ustad Shaukat Hussain|
+|Bairagi Todi |Todi|Youtube|Runtime: 170min(Starts: 00:36); Type: Khayal, Tarana|Ustad Salamat Ali Khan & Ustad Sharafat Ali Khan|Sarangi: Allah Rakha|
+|Bairagi Todi |Todi|Youtube|Runtime: 27min; Type: Khayal, Tarana|Ustad Salamat Ali Khan & Ustad Sharafat Ali Khan|Sarangi: Nazim Ali; Tabla: Shaukat HussainBairagi Todi |Todi|Youtube|Runtime: 7min; Type: Khayal|Ustad Salamat Ali Khan & Ustad Sharafat Ali Khan|Tabla: Ghulam Abbas Khan|
+|Bairagi Todi |Todi|Youtube|Runtime: 44min; Type: Khayal, Tarana|Ustad Salamat Ali Khan & Ustad Sharafat Ali Khan| |
+|Barwa |Kafi|Youtube|Runtime: 12min; Type: Khayal|Ustad Salamat Ali Khan| |
+|Basant Bahar|Poorvi|Youtube|Runtime: 3min; Type: Khayal|Ustad Salamat Ali Khan| |
+|Basant Mukhari |Bhairav|Youtube|Runtime: 27min; Type: Khayal, Tarana; Place: Radio Lahore Pakistan|Ustad Salamat Ali Khan & Ustad Sharafat Ali Khan|Sarangi: Nazim Ali; Tabla: Shaukat HussainBhairav |Bhairav|Youtube|Runtime: 10min; Type: Khayal|Ustad Salamat Ali Khan| |
+|Bhankar |Bhairav|Youtube|Runtime: 143min; Type: Khayal, Tarana|Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan| |
