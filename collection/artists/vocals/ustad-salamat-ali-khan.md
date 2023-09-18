@@ -5,10 +5,38 @@ parent: Artists
 has_children: false
 ---
 
-![Nazakat-Salamat](../../../../../assets/images/artists/1934-ustad-salamat-ali-khan/ustad-nazakat-salamat-ali-khan.jpg)
-![Salamat](../../../../../assets/images/artists/1934-ustad-salamat-ali-khan/ustad-salamat-ali-khan.jpg)
-![Salamat-Sharafat](../../../../../assets/images/artists/1934-ustad-salamat-ali-khan/ustad-salamat-sharafat-ali-khan.jpg)
+# Ustad Salamat Ali Khan (1934 - 2001)
 
+## Contents
+1. Khayal and Tarana
+
+
+<figure>
+  <img
+  src="../../../../../assets/images/artists/1934-ustad-salamat-ali-khan/ustad-salamat-ali-khan.jpg"
+  alt="Ustad Salamat Ali Khan Image">
+  <figcaption><i>Ustad Salamat Ali Khan Saheb in young age, with his Swarmandal</i></figcaption>
+  <br />
+</figure>
+
+<figure>
+  <img
+  src="../../../../../assets/images/artists/1934-ustad-salamat-ali-khan/ustad-nazakat-salamat-ali-khan.jpg"
+  alt="Ustad Nazakat Salamat Ali Khan Image">
+  <figcaption><i>Ustad Nazakat Salamat Ali Khan Saheb, image from an LP record cover</i></figcaption>
+  <br />
+</figure>
+
+<figure>
+  <img
+  src="../../../../../assets/images/artists/1934-ustad-salamat-ali-khan/ustad-salamat-sharafat-ali-khan.jpg"
+  alt="Ustad Salamat Sharafat Ali Khan Image">
+  <figcaption><i>Ustad Salamat Ali, with son Sharafat Ali Khan</i></figcaption>
+</figure>
+
+
+
+## 1. Khayal and Tarana
 
 | Raag          | Thaat   | Record                                       | About Record (Runtime, Type, Year, Place, Live)                                     | By                                                | Accompaniments                                 |
 | ------------- | ------- | -------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------- | ---------------------------------------------- |
