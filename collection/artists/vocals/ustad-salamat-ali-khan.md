@@ -7,6 +7,10 @@ has_children: false
 
 # Ustad Salamat Ali Khan (1934 - 2001)
 
+
+> हुई न आम जहाँ में कभी हुकूमत-ए-इश्क़, सबब ये है कि मोहब्बत ज़माना-साज़ नहीं - अल्लामा इक़बाल
+
+
 ## Contents
 1. Khayal and Tarana
 
