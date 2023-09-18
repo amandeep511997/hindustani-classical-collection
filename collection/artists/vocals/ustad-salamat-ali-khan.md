@@ -13,7 +13,7 @@ has_children: false
 
 <figure>
   <img
-  src="../../../../../assets/images/artists/1934-ustad-salamat-ali-khan/ustad-salamat-ali-khan.jpg"
+  src="../../../assets/images/artists/1934-ustad-salamat-ali-khan/ustad-salamat-ali-khan.jpg"
   alt="Ustad Salamat Ali Khan Image">
   <figcaption><i>Ustad Salamat Ali Khan Saheb in young age, with his Swarmandal</i></figcaption>
   <br />
@@ -21,7 +21,7 @@ has_children: false
 
 <figure>
   <img
-  src="../../../../../assets/images/artists/1934-ustad-salamat-ali-khan/ustad-nazakat-salamat-ali-khan.jpg"
+  src="../../../assets/images/artists/1934-ustad-salamat-ali-khan/ustad-nazakat-salamat-ali-khan.jpg"
   alt="Ustad Nazakat Salamat Ali Khan Image">
   <figcaption><i>Ustad Nazakat Salamat Ali Khan Saheb, image from an LP record cover</i></figcaption>
   <br />
@@ -29,7 +29,7 @@ has_children: false
 
 <figure>
   <img
-  src="../../../../../assets/images/artists/1934-ustad-salamat-ali-khan/ustad-salamat-sharafat-ali-khan.jpg"
+  src="../../../assets/images/artists/1934-ustad-salamat-ali-khan/ustad-salamat-sharafat-ali-khan.jpg"
   alt="Ustad Salamat Sharafat Ali Khan Image">
   <figcaption><i>Ustad Salamat Ali, with son Sharafat Ali Khan</i></figcaption>
 </figure>
