@@ -15,35 +15,17 @@ has_children: false
 
 ## Contents
 1. [Classical Records](#1-classical-records)
-    1. Khayal and Tarana
-    2. Dhrupad
-    3. LPs
-    4. Collections
-2. Semi Classical Records
-    1. Kafi
-    2. Thumri
-    3. Dadra
-    4. Gurbani Shabads
-3. Interviews
-4. Articles
-
-### 1.2 Dhrupad
-
-### 1.3 LPs
-
-### 1.4 Collections
-
-
-## 2. Semi Classical Records
-
-### 2.1 Kafi
-
-### 2.2 Thumri
-### 2.3 Dadra
-### 2.4 Dadra
-
-## 3. Interviews
-## 4. Articles
+    1. [Khayal and Tarana](#11-khayal-and-tarana)
+    2. [Dhrupad](#12-dhrupad)
+    3. [LPs](#13-lps)
+    4. [Collections](#14-collections)
+2. [Semi Classical Records](#2-semi-classical-records)
+    1. [Kafi](#21-kafi)
+    2. [Thumri](#22-thumri)
+    3. [Dadra](#23-dadra)
+    4. [Gurbani Shabads](#24-gurbani-shabads)
+3. [Interviews](#3-interviews)
+4. [Articles](#4-articles)
 
 <figure>
   <img
@@ -57,7 +39,7 @@ has_children: false
   <img
   src="../../../assets/images/artists/1934-ustad-salamat-ali-khan/ustad-nazakat-salamat-ali-khan.jpg"
   alt="Ustad Nazakat Salamat Ali Khan Image">
-  <figcaption><i>Ustad Nazakat Salamat Ali Khan Saheb, image from an LP record cover</i></figcaption>
+  <figcaption><i>Khan Saheb Ustad Nazakat Ali with brother Salamat Ali, image from an LP record cover</i></figcaption>
   <br />
 </figure>
 
@@ -65,10 +47,8 @@ has_children: false
   <img
   src="../../../assets/images/artists/1934-ustad-salamat-ali-khan/ustad-salamat-sharafat-ali-khan.jpg"
   alt="Ustad Salamat Sharafat Ali Khan Image">
-  <figcaption><i>Ustad Salamat Ali, with son Sharafat Ali Khan</i></figcaption>
+  <figcaption><i>Ustad Salamat Ali Khan, with son Sharafat Ali Khan</i></figcaption>
 </figure>
-
-
 
 ## 1. Classical Records
 
@@ -404,22 +384,143 @@ has_children: false
 | 326   | Yaman Kalyan       | Kalyan          | [Youtube]( https://www.youtube.com/watch?v=UXODEBokf0I)  | Runtime: 61min; Type: Khayal, Tarana                                                  | Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan                        |                                                                        |
 | 327   | Yaman Kalyan       | Kalyan          | [Youtube]( https://www.youtube.com/watch?v=YEohPX4IMDs)  | Runtime: 43min; Type: Khayal, Tarana                                                  | Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan                        |
 
-
-
 ### 1.2 Dhrupad
+
+| Index | Raag | Title | Record                                                 | About Record (Runtime, Type, Year, Place, Live) | By                                                |
+|-------|------|-------|--------------------------------------------------------|-------------------------------------------------|---------------------------------------------------|
+| 1     | -    | -     | [Youtube](https://www.youtube.com/watch?v=veo5ewAs8K4) | Runtime: 3min                                   | Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan |
 
 ### 1.3 LPs
 
+| Index | Raags              | LP Title                                                    | Record                                                  | About Record (Runtime, Type, Year, Place, Live) | By                                                |
+|-------|--------------------|-------------------------------------------------------------|---------------------------------------------------------|-------------------------------------------------|---------------------------------------------------|
+| 1     | Madhuvanti & Purvi | Nazakat - Salamat; His master's voice; EALP 1264            | [Youtube]( https://www.youtube.com/watch?v=cZGBjASz6n4) | Runtime: 36min; Year: 1961                      | Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan |
+| 1     | Kalavati & Darbari | Nazakat - Salamat; Classical music from Pakistan; CLP 1308  | [Youtube]( https://www.youtube.com/watch?v=L2Kj31gXDR8) | Runtime: 43min; Year: 1959                      | Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan |
+
 ### 1.4 Collections
 
+| Index | Title                                  | Record                                                  |
+|-------|----------------------------------------|---------------------------------------------------------|
+| 1     | Salamat and Sharafat 1                 | [Youtube]( https://www.youtube.com/watch?v=QKOjRWFLm48) |
+| 2     | Salamat and Sharafat 2                 | [Youtube]( https://www.youtube.com/watch?v=wQqKvz4H2TM) |
+| 3     | Salamat and Sharafat 3                 | [Youtube]( https://www.youtube.com/watch?v=CDur6eVN_4Y) |
+| 4     | Salamat and Sharafat 4                 | [Youtube]( https://www.youtube.com/watch?v=Awl4S5yDFIE) |
+| 5     | Salamat and Sharafat 5                 | [Youtube]( https://www.youtube.com/watch?v=thbV7O)      |
+| 6     | Salamat and Sharafat 6                 | [Youtube]( https://www.youtube.com/watch?v=ZWiJtCKB9RU) |
+| 7     | Salamat and Sharafat 7                 | [Youtube]( https://www.youtube.com/watch?v=WwKf98_)     |
+| 8     | Ustad Salamat Ali Khan Compilation 1   | [Youtube]( https://www.youtube.com/watch?v=qi0KnzIpq)   |
+| 9     | Ustad Salamat Ali Khan Compilation 2   | [Youtube]( https://www.youtube.com/watch?v=G6HyHZBu9U4) |
+| 10    | Ustad Salamat Ali Khan Compilation 2a  | [Youtube]( https://www.youtube.com/watch?v=eMS1wt48DDo) |
+| 11    | Ustad Salamat Ali Khan Compilation 2a  | [Youtube](https://www.youtube.com/watch?v=mKCm6mAze2w)  |
+| 12    | Ustad Salamat Ali Khan Compilation 2b  | [Youtube](https://www.youtube.com/watch?v=-kZTxypj7vY)  |
+| 13    | Ustad Salamat Ali Khan Compilation 2c  | [Youtube](https://www.youtube.com/watch?v=sj-86sPCjZM)  |
+| 14    | Ustad Salamat Ali Khan Compilation 2d  | [Youtube]( https://www.youtube.com/watch?v=STyGOU6ACNs) |
+| 15    | Ustad Salamat Ali Khan Compilation 2e  | [Youtube]( https://www.youtube.com/watch?v=jzn_2TvUQHk) |
+| 16    | Ustad Salamat Ali Khan Compilation 4   | [Youtube]( https://www.youtube.com/watch?v=dz5KIhJHs5o) |
+| 17    | Ustad Salamat Ali Khan Compilation 5   | [Youtube]( https://www.youtube.com/watch?v=91dq2mTf0bA) |
 
 ## 2. Semi Classical Records
 
 ### 2.1 Kafi
 
+| Index | Title                             | Record                                                 | About Record (Runtime, Type, Year, Place, Live)  | By                                                | Accompaniments                          |
+|-------|-----------------------------------|--------------------------------------------------------|--------------------------------------------------|---------------------------------------------------|-----------------------------------------|
+| 1     | -                                 | [Youtube](https://www.youtube.com/watch?v=AEl-sQ-SGOs) | Runtime: 16min                                   | Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan |                                         |
+| 2     | -                                 | [Youtube](https://www.youtube.com/watch?v=wGajl7Lr6Sc) | Runtime: 6min                                    | Ustad Salamat Ali Khan                            |                                         |
+| 3     | -                                 | [Youtube](https://www.youtube.com/watch?v=fE1ZtmClGfQ) | Runtime: 10min                                   | Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan |                                         |
+| 4     | -                                 | [Youtube](https://www.youtube.com/watch?v=43IX8DiLTjo) | Runtime: 13min                                   | Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan |                                         |
+| 5     | Ao Saiyo Ral Diyo Ni Vadhai       | [Youtube](https://www.youtube.com/watch?v=9xyeCi0hZow) | Runtime: 10min; Place: London; Year: 1984        | Ustad Salamat Ali Khan & Ustad Sharafat Ali Khan  |                                         |
+| 6     | Ao Saiyo Ral Diyo Ni Vadhai       | [Youtube](https://www.youtube.com/watch?v=yMUb3u86wk0) | Runtime: 9min                                    | Ustad Salamat Ali Khan                            |                                         |
+| 7     | Ao Saiyo Ral Diyo Ni Vadhai       | [Youtube](https://www.youtube.com/watch?v=8McpQaG5Doc) | Runtime: 7min                                    | Ustad Salamat Ali Khan                            |                                         |
+| 8     | Ek Raanjha Mainoo Lori Daa        | [Youtube](https://www.youtube.com/watch?v=7EkV5OYJ3bE) | Runtime: 9min                                    | Ustad Salamat Ali Khan                            |                                         |
+| 9     | Gaya rol Rawal wich rohi - Part 1 | [Youtube](https://www.youtube.com/watch?v=tgzIqUlCUpY) | Runtime: 8min; Type: Multani Kafi                | Ustad Salamat Ali Khan                            |                                         |
+| 10    | Gaya rol Rawal wich rohi - Part 2 | [Youtube](https://www.youtube.com/watch?v=8Q6qqXEIudY) | Runtime: 8min; Type: Multani Kafi                | Ustad Salamat Ali Khan                            |                                         |
+| 11    | Guzar Gai Guzran                  | [Youtube](https://www.youtube.com/watch?v=H92RdUeSsRI) | Runtime: 6min                                    | Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan |                                         |
+| 12    | Hun tay ranjhan a var wairay      | [Youtube](https://www.youtube.com/watch?v=pFR6a2Cn7Oo) | Runtime: 10min                                   | Ustad Salamat Ali Khan                            |                                         |
+| 13    | Ishq Ankhoori                     | [Youtube](https://www.youtube.com/watch?v=dgKnXHTeqAg) | Runtime: 12min; Type: Multani Kafi; Year: 1986   | Ustad Salamat Ali Khan & Ustad Sharafat Ali Khan  | Tabla: Mumtaz Ali; Sarangi: Allah Rakha |
+| 14    | Joban betto jay                   | [Youtube](https://www.youtube.com/watch?v=LiGCJb4xZ04) | Runtime: 12min; Type: Zila Kafi                  | Ustad Salamat Ali Khan                            |                                         |
+| 15    | Nitaan Awalra                     | [Youtube](https://www.youtube.com/watch?v=X_DhIicqB3g) | Runtime: 5min; Place: Radio Pakistan; Year: 1971 | Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan |                                         |
+| 16    | Nitaan Awalra Aukha               | [Youtube](https://www.youtube.com/watch?v=Kkf1MSfP0RU) | Runtime: 10min; Type: Zila Kafi; Year: 1983      | Ustad Salamat Ali Khan                            |                                         |
+| 17    | Ranjha ranjha kerdi ni main       | [Youtube](https://www.youtube.com/watch?v=NvUbT6kNxn0) | Runtime: 9min                                    | Ustad Salamat Ali Khan                            |                                         |
+| 18    | Rondiya ni umar ni bhi            | [Youtube](https://www.youtube.com/watch?v=YAXe3HXs-N8) | Runtime: 7min                                    | Ustad Salamat Ali Khan & Ustad Sharafat Ali Khan  |                                         |
+| 19    | Sanwal Mor Muharan                | [Youtube](https://www.youtube.com/watch?v=43-eSCU4tAo) | Runtime: 47min; Type: Multani Kafi               | Ustad Salamat Ali Khan                            |                                         |
+| 20    | Sanwal Morh Moharan               | [Youtube](https://www.youtube.com/watch?v=nLCHUBnpJXk) | Runtime: 3min; Type: Multani Kafi                | Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan |                                         |
+| 21    | Sanwal Morh Moharan               | [Youtube](https://www.youtube.com/watch?v=BV9negAekIg) | Runtime: 11min; Type: Multani Kafi; Live         | Ustad Salamat Ali Khan                            |                                         |
+| 22    | Sat Sik Ghair Khuda               | [Youtube](https://www.youtube.com/watch?v=Q5AjAC1lSF0) | Runtime: 8min; Type: Multani Kafi                | Ustad Salamat Ali Khan                            |
+
 ### 2.2 Thumri
+
+| Index | Title                             | Record                                                 | About Record (Runtime, Type, Year, Place, Live)   | By                                                                       | Accompaniments                                       |
+|-------|-----------------------------------|--------------------------------------------------------|---------------------------------------------------|--------------------------------------------------------------------------|------------------------------------------------------|
+| 1     | Yaare man bia                     | [Youtube](https://www.youtube.com/watch?v=frC-ZZkh0DA) | Runtime: 4min; Place: Kabul                       | Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan                        |                                                      |
+| 2     | Joban beeto jaye                  | [Youtube](https://www.youtube.com/watch?v=hzOGW_IEqpI) | Runtime: 12min                                    | Ustad Salamat Ali Khan                                                   |                                                      |
+| 3     | -                                 | [Youtube](https://www.youtube.com/watch?v=7jmHm5GJyy8) | Runtime: 57min; Live                              | Ustad Salamat Ali Khan, Ustad Sharafat Ali Khan & Ustad Shafqat Ali Khan |                                                      |
+| 4     |                                   | [Youtube](https://www.youtube.com/watch?v=WuEC9jcGIlk) | Runtime: 21min; Year: 1967                        | Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan                        |                                                      |
+| 5     | Ya Ali Mushkil Kusha              | [Youtube](https://www.youtube.com/watch?v=k7DINQYTOpA) | Runtime: 8min                                     | Ustad Salamat Ali Khan                                                   |                                                      |
+| 6     | Na ja balam pardesi               | [Youtube](https://www.youtube.com/watch?v=b3KkDYbNhUY) | Runtime: 31min                                    | Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan                        |                                                      |
+| 7     | Kehrva-Chhor ke Na Ja Sayan More  | [Youtube](https://www.youtube.com/watch?v=8G8TsZbAd0g) | Runtime: 12min; Place: Pakistan; Year: 1961       | Ustad Salamat Ali Khan                                                   | Sarangi: Nazim Ali Khan; Tabla: Shaukat Hussein Khan |
+| 8     | Aj Samadhan More Ghar Aye Gay     | [Youtube](https://www.youtube.com/watch?v=Oj_OKXuAtTE) | Runtime: 21min                                    | Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan                        |                                                      |
+| 9     | Aj Samadhan More Ghar Aye Gay     | [Youtube](https://www.youtube.com/watch?v=Oj_OKXuAtTE) | Runtime: 21min                                    | Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan                        |                                                      |
+| 10    | Ambuwa ki dar pe koyal            | [Youtube](https://www.youtube.com/watch?v=OpFrNWivcpQ) | Runtime: 13min                                    | Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan                        |                                                      |
+| 11    | -                                 | [Youtube](https://www.youtube.com/watch?v=Gvgnn4lrH9k) | Runtime: 85min; Place: Washington, DC             | Ustad Salamat Ali Khan & Ustad Sharafat Ali Khan                         | Tabla: Ghulam Abbas Khan                             |
+| 12    | -                                 | [Youtube](https://www.youtube.com/watch?v=EXxU9NTR3Ws) | Runtime: 65min; Place: Richmond, VA; Year: 1990   | Ustad Salamat Ali Khan & Ustad Sharafat Ali Khan                         | Tabla: Ghulam Abbas Khan                             |
+| 13    | Nadiya Kinare mora gaon           | [Youtube](https://www.youtube.com/watch?v=Pjd4I35zfiA) | Runtime: 17min                                    | Ustad Salamat Ali Khan & Ustad Sharafat Ali Khan                         |                                                      |
+| 14    | Balma nahi ghar                   | [Youtube](https://www.youtube.com/watch?v=eBgDtaMtMOc) | Runtime: 13min                                    | Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan                        |                                                      |
+| 15    | Aan Milo ik Bar                   | [Youtube](https://www.youtube.com/watch?v=O9FWsk8arZ0) | Runtime: 12min                                    | Ustad Salamat Ali Khan                                                   |                                                      |
+| 16    | -                                 | [Youtube](https://www.youtube.com/watch?v=e5_FDPrrvBs) | Runtime: 27min; Place: Kabul; Year: 1964          | Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan                        |                                                      |
+| 17    | -                                 | [Youtube](https://www.youtube.com/watch?v=7Ok7FNzmcQc) | Runtime: 90min; Place: Alexandria, VA; Year: 1986 | Ustad Salamat Ali Khan & Ustad Sharafat Ali Khan                         |                                                      |
+| 18    | -                                 | [Youtube](https://www.youtube.com/watch?v=1I1p6rjCjIY) | Runtime: 16min                                    | Ustad Salamat Ali Khan & Ustad Sharafat Ali Khan                         |                                                      |
+| 19    | Dil le ke badnaam kiya re         | [Youtube](https://www.youtube.com/watch?v=iHu3rq9RJMI) | Runtime: 11min                                    | Ustad Sharafat Ali Khan                                                  |                                                      |
+| 20    | Tore Bina Mohe Kal Nahi Aa Vay    | [Youtube](https://www.youtube.com/watch?v=eBQS3c3Pgl4) | Runtime: 17min                                    | Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan                        |                                                      |
+| 21    | Kalan Parat Maika                 | [Youtube](https://www.youtube.com/watch?v=sraxnTG2jGw) | Runtime: 7min                                     | Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan                        |                                                      |
+| 22    | -                                 | [Youtube](https://www.youtube.com/watch?v=pMjrzY-y1Jk) | Runtime: 52min; Live                              | Ustad Salamat Ali Khan, Ustad Sharafat Ali Khan & Ustad Shafqat Ali Khan |                                                      |
+| 23    | Lagi re manva mai chot            | [Youtube](https://www.youtube.com/watch?v=yTTrv1blxEs) | Runtime: 6min                                     | Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan                        |                                                      |
+| 24    | Tora naino nay jadu               | [Youtube](https://www.youtube.com/watch?v=zv06CIqSHkw) | Runtime: 47min; Year: 1975                        | Ustad Salamat Ali Khan                                                   |                                                      |
+| 25    | -                                 | [Youtube](https://www.youtube.com/watch?v=Vuvo0glXpfE) | Runtime: 6min; Live                               | Ustad Salamat Ali Khan                                                   |                                                      |
+| 26    | Torey Naino ne Jado kiya          | [Youtube](https://www.youtube.com/watch?v=HWOOD7M0FLo) | Runtime: 22min                                    | Ustad Salamat Ali Khan & Ustad Sharafat Ali Khan                         |                                                      |
+| 27    | Mora Naina Lagagi Barasath        | [Youtube](https://www.youtube.com/watch?v=dJiXoWHuGsY) | Runtime: 19min; Place: India; Year: 1960          | Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan                        |                                                      |
+| 28    | More Naina                        | [Youtube](https://www.youtube.com/watch?v=UFIxb7drPQM) | Runtime: 3min                                     | Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan                        |                                                      |
+| 29    | More Naina                        | [Youtube](https://www.youtube.com/watch?v=WzOLzhW5mIw) | Runtime: 23min                                    | Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan                        |
+
 ### 2.3 Dadra
-### 2.4 Dadra
+
+| Index | Raag   | Title           | Record                                                  | About Record (Runtime, Type, Year, Place, Live) | By                                               | Accompaniments                          |
+|-------|--------|-----------------|---------------------------------------------------------|-------------------------------------------------|--------------------------------------------------|-----------------------------------------|
+| 1     | Pahadi | Dardwa na jana  | [Youtube]( https://www.youtube.com/watch?v=9P0_QFbYzUI) | Runtime: 10min; Place: Pakistan; Year: 1986     | Ustad Salamat Ali Khan & Ustad Sharafat Ali Khan | Tabla: Mumtaz Ali; Sarangi: Allah Rakha |
+
+### 2.4 Gurbani Shabads
+
+| Index | Raag                        | Shabad                | Record                                                  | About Record (Runtime, Type, Year, Place, Live) | By                                               | Accompaniments                 |
+|-------|-----------------------------|-----------------------|---------------------------------------------------------|-------------------------------------------------|--------------------------------------------------|--------------------------------|
+| 1     | Patdeep                     | Nain Mahinjey Tarsde  | [Youtube]( https://www.youtube.com/watch?v=hHGpvVCKz60) | Runtime: 10min                                  | Ustad Salamat Ali Khan & Ustad Sharafat Ali Khan | Tabla: Bhai Dalip Singh Fakkar |
+| 2     | Pahadi                      | Nain Mahinje Tarsde   | [Youtube]( https://www.youtube.com/watch?v=3zoOug56D_o) | Runtime: 15min                                  | Ustad Salamat Ali Khan & Ustad Sharafat Ali Khan |                                |
+| 3     | Puriya Dhanashree & Basant  | -                     | [Youtube]( https://www.youtube.com/watch?v=QbAOMVXqU1E) | Runtime: 18min; Place: NY; Year: 1986           | Ustad Salamat Ali Khan & Ustad Sharafat Ali Khan |                                |
+| 4     | Brindabani Sarang           | Karam Karo Maharaj    | [Youtube]( https://www.youtube.com/watch?v=pYA0QAmOAkA) | Runtime: 16min                                  | Ustad Salamat Ali Khan & Ustad Sharafat Ali Khan | Tabla: Bhai Dalip Singh Fakkar |
+| 5     | Patdeep                     | -                     | [Youtube]( https://www.youtube.com/watch?v=p4aK3DKQ0gk) | Runtime: 8min                                   | Ustad Salamat Ali Khan & Ustad Sharafat Ali Khan | Tabla: Bhai Dalip Singh Fakkar |
+| 6     | Rageswari                   | -                     | [Youtube]( https://www.youtube.com/watch?v=J_P2mK6C6g0) | Runtime: 78min; Place: Gurudwara Manji Sahib    | Ustad Salamat Ali Khan & Ustad Sharafat Ali Khan | Tabla: Bhai Dalip Singh Fakkar |
 
 ## 3. Interviews
+
+| Index | Title                                                                     | Record                                                  |
+|-------|---------------------------------------------------------------------------|---------------------------------------------------------|
+| 1     | On the plight of Classical Music                                          | [Youtube](https://www.youtube.com/watch?v=vfBb1Opy3fY)  |
+| 2     | A Discussion with Ustad Salamat Ali Khan                                  | [Youtube](https://www.youtube.com/watch?v=xGdXvkvtBvw)  |
+| 3     | Nazakat - Salamat - Radio Pakistan Broadcasting 1975                      | [Youtube](https://www.youtube.com/watch?v=iYtvgx_XIU4)  |
+| 4     | Sardar Balbir Singh Kanwal - The Mardana Project - Reference of KhanSaheb | [Youtube]( https://www.youtube.com/watch?v=Vee0M2EX9e4) |
+| 5     | Ustad Nusrat Fateh Ali Khan Saheb's Second Barsi                          | [Youtube](https://www.youtube.com/watch?v=95fRq8lW_sE)  |
+| 6     | Ustaad Salamat Ali Khan | Interview Part 1                                | [Youtube](https://www.youtube.com/watch?v=nLEWDTlXA8I)  |
+| 7     | Ustaad Salamat Ali Khan | Interview Part 2                                | [Youtube](https://www.youtube.com/watch?v=64qXZxvHK5I)  |
+| 8     | Ustad Salamat Ali Khan Interview | Part 3                                 | [Youtube](https://www.youtube.com/watch?v=knTkY77yCiE)  |
+| 9     | Ustad Nazakat and Ustad Salamat Ali Khan interviewed by S.M.Saleem        | [Youtube](https://www.youtube.com/watch?v=WTNRX0GRv6M)  |
+| 10    | Ustad Salamat Ali Khan interviewed by Ustad Amjad Ali Khan                | [Youtube](https://www.youtube.com/watch?v=T5VHI5rqe8w)  |
+| 11    | Ustad Nazakat Ali and Ustad Salamat Ali by Ghazala Rafique                | [Youtube](https://www.youtube.com/watch?v=1xXy8Gw2R_0)  |
+| 12    | Ustad Salamat Ali Khan interviewed by Himayat Ali Shair                   | [Youtube](https://www.youtube.com/watch?v=1UjL6lv7Y1g)  |
+| 13    | Ustad Nazakat Ali Khan interviewed by Himayat Ali Shair                   | [Youtube](https://www.youtube.com/watch?v=QrEEQt_bNbE)  |
+
 ## 4. Articles
+
+1. [Vocalist Salamat Ali Khan reminds us how precise and beautiful the unimaginable can be](https://scroll.in/article/962117/recordings-by-vocalist-salamat-ali-khan-remind-us-how-precise-and-beautiful-the-unimaginable-can-be)
+2. [USTAD SALAMAT ALI KHAN: Great Classical Singer And Creator Of Many Ragas](https://www.youtube.com/watch?v=j8IyHqrF5LQ)
+3. [LP Record Logs of Ustad Nazakat Ali Khan and Ustad Salamat Ali Khan](https://www.discogs.com/artist/2291813-Ustad-Nazakat-Ali-Khan-Ustad-Salamat-Ali-Khan)
+
+
