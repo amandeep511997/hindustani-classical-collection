@@ -390,11 +390,15 @@ has_children: false
 
 ### 1.2 Dhrupad
 
+*(Scroll left or right to view all columns of the table)*
+
 | Index | Raag | Title | Record                                                 | About Record (Runtime, Type, Year, Place, Live) | By                                                |
 |-------|------|-------|--------------------------------------------------------|-------------------------------------------------|---------------------------------------------------|
 | 1     | -    | -     | [Youtube](https://www.youtube.com/watch?v=veo5ewAs8K4) | Runtime: 3min                                   | Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan |
 
 ### 1.3 LPs
+
+*(Scroll left or right to view all columns of the table)*
 
 | Index | Raags              | LP Title                                                    | Record                                                  | About Record (Runtime, Type, Year, Place, Live) | By                                                |
 |-------|--------------------|-------------------------------------------------------------|---------------------------------------------------------|-------------------------------------------------|---------------------------------------------------|
@@ -512,6 +516,8 @@ has_children: false
 | 6     | Rageswari                   | -                     | [Youtube]( https://www.youtube.com/watch?v=J_P2mK6C6g0) | Runtime: 78min; Place: Gurudwara Manji Sahib    | Ustad Salamat Ali Khan & Ustad Sharafat Ali Khan | Tabla: Bhai Dalip Singh Fakkar |
 
 ## 3. Interviews
+
+*(Scroll left or right to view all columns of the table)*
 
 | Index | Title                                                                     | Record                                                  |
 |-------|---------------------------------------------------------------------------|---------------------------------------------------------|
