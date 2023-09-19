@@ -4,3 +4,8 @@ theme: just-the-docs
 
 url: https://amandeep511997.github.io/hindustani-classical-collection
 
+callouts:
+  note:
+    title: Note
+    color: blue
+
