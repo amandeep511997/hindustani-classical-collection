@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal
 title: 1934 - Ustad Salamat Ali Khan
 parent: Artists
 has_children: false
