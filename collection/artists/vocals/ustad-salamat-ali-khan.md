@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 title: 1934 - Ustad Salamat Ali Khan
 parent: Artists
 has_children: false
@@ -26,6 +26,8 @@ has_children: false
     4. [Gurbani Shabads](#24-gurbani-shabads)
 3. [Interviews](#3-interviews)
 4. [Articles](#4-articles)
+
+---
 
 <figure>
   <img
