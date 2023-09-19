@@ -56,6 +56,8 @@ has_children: false
 
 ### 1.1 Khayal and Tarana
 
+*(Scroll left or right to view all columns of the table)*
+
 | Index | Raag               | Thaat           | Record                                                   | About Record (Runtime, Type, Year, Place, Live)                                       | By                                                                       | Accompaniments                                                         |
 |-------|--------------------|-----------------|----------------------------------------------------------|---------------------------------------------------------------------------------------|--------------------------------------------------------------------------|------------------------------------------------------------------------|
 | 1     | Abhogi             | Kafi            | [Youtube]( https://www.youtube.com/watch?v=3_0VldEenVU)  | Runtime: 34min; Type: Khayal, Tarana                                                  | Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan                        |                                                                        |
@@ -425,6 +427,8 @@ has_children: false
 
 ### 2.1 Kafi
 
+*(Scroll left or right to view all columns of the table)*
+
 | Index | Title                             | Record                                                 | About Record (Runtime, Type, Year, Place, Live)  | By                                                | Accompaniments                          |
 |-------|-----------------------------------|--------------------------------------------------------|--------------------------------------------------|---------------------------------------------------|-----------------------------------------|
 | 1     | -                                 | [Youtube](https://www.youtube.com/watch?v=AEl-sQ-SGOs) | Runtime: 16min                                   | Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan |                                         |
@@ -451,6 +455,8 @@ has_children: false
 | 22    | Sat Sik Ghair Khuda               | [Youtube](https://www.youtube.com/watch?v=Q5AjAC1lSF0) | Runtime: 8min; Type: Multani Kafi                | Ustad Salamat Ali Khan                            |
 
 ### 2.2 Thumri
+
+*(Scroll left or right to view all columns of the table)*
 
 | Index | Title                             | Record                                                 | About Record (Runtime, Type, Year, Place, Live)   | By                                                                       | Accompaniments                                       |
 |-------|-----------------------------------|--------------------------------------------------------|---------------------------------------------------|--------------------------------------------------------------------------|------------------------------------------------------|
@@ -486,11 +492,15 @@ has_children: false
 
 ### 2.3 Dadra
 
+*(Scroll left or right to view all columns of the table)*
+
 | Index | Raag   | Title           | Record                                                  | About Record (Runtime, Type, Year, Place, Live) | By                                               | Accompaniments                          |
 |-------|--------|-----------------|---------------------------------------------------------|-------------------------------------------------|--------------------------------------------------|-----------------------------------------|
 | 1     | Pahadi | Dardwa na jana  | [Youtube]( https://www.youtube.com/watch?v=9P0_QFbYzUI) | Runtime: 10min; Place: Pakistan; Year: 1986     | Ustad Salamat Ali Khan & Ustad Sharafat Ali Khan | Tabla: Mumtaz Ali; Sarangi: Allah Rakha |
 
 ### 2.4 Gurbani Shabads
+
+*(Scroll left or right to view all columns of the table)*
 
 | Index | Raag                        | Shabad                | Record                                                  | About Record (Runtime, Type, Year, Place, Live) | By                                               | Accompaniments                 |
 |-------|-----------------------------|-----------------------|---------------------------------------------------------|-------------------------------------------------|--------------------------------------------------|--------------------------------|
@@ -507,12 +517,12 @@ has_children: false
 |-------|---------------------------------------------------------------------------|---------------------------------------------------------|
 | 1     | On the plight of Classical Music                                          | [Youtube](https://www.youtube.com/watch?v=vfBb1Opy3fY)  |
 | 2     | A Discussion with Ustad Salamat Ali Khan                                  | [Youtube](https://www.youtube.com/watch?v=xGdXvkvtBvw)  |
-| 3     | Nazakat - Salamat - Radio Pakistan Broadcasting 1975                      | [Youtube](https://www.youtube.com/watch?v=iYtvgx_XIU4)  |
+| 3     | Ustad Nazakat - Salamat - Radio Pakistan Broadcasting 1975                | [Youtube](https://www.youtube.com/watch?v=iYtvgx_XIU4)  |
 | 4     | Sardar Balbir Singh Kanwal - The Mardana Project - Reference of KhanSaheb | [Youtube]( https://www.youtube.com/watch?v=Vee0M2EX9e4) |
 | 5     | Ustad Nusrat Fateh Ali Khan Saheb's Second Barsi                          | [Youtube](https://www.youtube.com/watch?v=95fRq8lW_sE)  |
-| 6     | Ustaad Salamat Ali Khan | Interview Part 1                                | [Youtube](https://www.youtube.com/watch?v=nLEWDTlXA8I)  |
-| 7     | Ustaad Salamat Ali Khan | Interview Part 2                                | [Youtube](https://www.youtube.com/watch?v=64qXZxvHK5I)  |
-| 8     | Ustad Salamat Ali Khan Interview | Part 3                                 | [Youtube](https://www.youtube.com/watch?v=knTkY77yCiE)  |
+| 6     | Ustad Salamat Ali Khan - Interview Part 1                                 | [Youtube](https://www.youtube.com/watch?v=nLEWDTlXA8I)  |
+| 7     | Ustad Salamat Ali Khan - Interview Part 2                                 | [Youtube](https://www.youtube.com/watch?v=64qXZxvHK5I)  |
+| 8     | Ustad Salamat Ali Khan  - Interview Part 3                                | [Youtube](https://www.youtube.com/watch?v=knTkY77yCiE)  |
 | 9     | Ustad Nazakat and Ustad Salamat Ali Khan interviewed by S.M.Saleem        | [Youtube](https://www.youtube.com/watch?v=WTNRX0GRv6M)  |
 | 10    | Ustad Salamat Ali Khan interviewed by Ustad Amjad Ali Khan                | [Youtube](https://www.youtube.com/watch?v=T5VHI5rqe8w)  |
 | 11    | Ustad Nazakat Ali and Ustad Salamat Ali by Ghazala Rafique                | [Youtube](https://www.youtube.com/watch?v=1xXy8Gw2R_0)  |
