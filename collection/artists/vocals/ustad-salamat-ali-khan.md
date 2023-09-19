@@ -10,13 +10,23 @@ has_children: false
 
 > हुई न आम जहाँ में कभी हुकूमत-ए-इश्क़, सबब ये है कि मोहब्बत ज़माना-साज़ नहीं - अल्लामा इक़बाल
 
+{: .note }
+> 1. We just aggregate web content related to the artist and do not claim ownership of any records. 
+>
+> 2. It is possible that a few weblinks become stale, or are removed by respective owners
 
 ## Contents
-{: .note }
-Note: This is just an aggregation of content related to the artist, we do not claim ownership of any records. Any feedback, suggestions are welcomed.
-
-1. Khayal and Tarana
-
+1. Classical Records
+    1. Khayal and Tarana
+    2. Dhrupad
+    3. LPs
+    4. Collections
+2. Semi Classical Records
+    1. Kafi
+    2. Thumri
+    3. Dadra
+3. Interviews
+4. Articles
 
 <figure>
   <img
