@@ -10,6 +10,9 @@ permalink: /
 ## Summary
 Collection of hindustani classical music records, mainly dhrupad, khayal, tarana, sung by various hindustani classical **artists of past centuries** 
 
+[View Artists Section][artists#list-of-artists]{: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ## Contact
 Feel free to provide feedback, suggestions, complaints, [here](https://github.com/amandeep511997/hindustani-classical-collection/issues).
+
+
