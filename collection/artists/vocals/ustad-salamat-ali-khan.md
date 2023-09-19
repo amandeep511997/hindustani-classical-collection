@@ -11,9 +11,7 @@ has_children: false
 > हुई न आम जहाँ में कभी हुकूमत-ए-इश्क़, सबब ये है कि मोहब्बत ज़माना-साज़ नहीं - अल्लामा इक़बाल
 
 {: .note }
-> 1. We just aggregate web content related to the artist and do not claim ownership of any records. 
->
-> 2. It is possible that a few weblinks become stale, or are removed by respective owners
+> We just aggregate web content links related to the artist and do not aim to claim ownership of any records. It is possible that a few weblinks become stale, or are removed by respective owners
 
 ## Contents
 1. Classical Records
@@ -53,8 +51,9 @@ has_children: false
 
 
 
-## 1. Khayal and Tarana
+## 1. Classical Records
 
+### 1.1 Khayal and Tarana
 |Raag|Thaat|Record|About Record (Runtime, Type, Year, Place, Live)|By|Accompaniments|
 |:----|:----|:----|:----|:----|:----|
 |Abhogi |Kafi|Youtube|Runtime: 34min; Type: Khayal, Tarana|Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan| |
@@ -102,3 +101,19 @@ has_children: false
 |Basant Bahar|Poorvi|Youtube|Runtime: 3min; Type: Khayal|Ustad Salamat Ali Khan| |
 |Basant Mukhari |Bhairav|Youtube|Runtime: 27min; Type: Khayal, Tarana; Place: Radio Lahore Pakistan|Ustad Salamat Ali Khan & Ustad Sharafat Ali Khan|Sarangi: Nazim Ali; Tabla: Shaukat HussainBhairav |Bhairav|Youtube|Runtime: 10min; Type: Khayal|Ustad Salamat Ali Khan| |
 |Bhankar |Bhairav|Youtube|Runtime: 143min; Type: Khayal, Tarana|Ustad Salamat Ali Khan and Ustad Nazakat Ali Khan| |
+
+### 1.2 Dhrupad
+
+### 1.3 LPs
+
+### 1.4 Collections
+
+
+## 2. Semi Classical Records
+
+### 2.1 Kafi
+### 2.2 Thumri
+### 2.3 Dadra
+
+## 3. Interviews
+## 4. Articles
