@@ -472,3 +472,8 @@ has_children: false
 | Index | Title                                                           | Record                                                         |
 | ----- | --------------------------------------------------------------- | -------------------------------------------------------------- |
 | 1     | That Which Colors The Mind: An Unfinished Film By Steven Baigel | [Youtube](https://www.youtube.com/watch?v=_-agD7oQoeM&t=4272s) |
+
+## 6. Related Webpages
+1. [Nikhil Banerjee Site by Alan Tootill](http://nikhilbanerjee.uk/index.htm)
+2. [Steven Baigel's webpage on Nikhil Banerjee](http://www.stevenbaigel.com/banerjeedoc/introduction.html)
+
