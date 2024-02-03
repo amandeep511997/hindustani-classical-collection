@@ -19,6 +19,36 @@ has_children: false
 
 ---
 
+<figure>
+  <img
+  src="../../../assets/images/artists/1931-pandit-nikhil-banerjee/pandit-nikhil-banerjee-with-his-sitar.jpg"
+  alt="Pandit Nikhil Banerjee with his Sitar Image">
+  <figcaption><i>Pandit Nikhil Banerjee with his Sitar Image</i></figcaption>
+  <br />
+</figure>
+
+<figure>
+  <img
+  src="../../../assets/images/artists/1931-pandit-nikhil-banerjee/pandit-nikhil-banerjee-young-age.jpg"
+  alt="Pandit Nikhil Banerjee Image">
+  <figcaption><i>Pandit Nikhil Banerjee in his young age</i></figcaption>
+  <br />
+</figure>
+
+<figure>
+  <img
+  src="../../../assets/images/artists/1931-pandit-nikhil-banerjee/pandit-nikhil-banerjee-with-allaudin-khan.jpg"
+  alt="Pandit Nikhil Banerjee with Allauddin Khan Image">
+  <figcaption><i>Pandit Nikhil Banerjee with his guru Baba Allauddin Khan</i></figcaption>
+</figure>
+
+<figure>
+  <img
+  src="../../../assets/images/artists/1931-pandit-nikhil-banerjee/pandit-nikhil-banerjee-with-his-daughter.jpg"
+  alt="Pandit Nikhil Banerjee with his daughter Image">
+  <figcaption><i>Pandit Nikhil Banerjee with his daughter</i></figcaption>
+</figure>
+
 ## 1. Classical Records
 
 *(Scroll left or right to view all columns of the table)*
