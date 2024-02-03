@@ -21,8 +21,10 @@ has_children: false
 
 <figure>
   <img
-  src="../../../assets/images/artists/1931-pandit-nikhil-banerjee/pandit-nikhil-banerjee-with-his-sitar.jpg"
-  alt="Pandit Nikhil Banerjee with his Sitar Image">
+    src="../../../assets/images/artists/1931-pandit-nikhil-banerjee/pandit-nikhil-banerjee-with-his-sitar.jpg"
+    alt="Pandit Nikhil Banerjee with his Sitar Image"
+    width="600"
+  >
   <figcaption><i>Pandit Nikhil Banerjee with his Sitar Image</i></figcaption>
   <br />
 </figure>
