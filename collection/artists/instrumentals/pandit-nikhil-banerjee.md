@@ -7,6 +7,8 @@ has_children: false
 
 # Pandit Nikhil Banerjee (1931 - 1986)
 
+> "...it is said that first your heart sings, then you play. I think if it is not like that, then it is only just a combination of notes, isn't it? " - Nikhil Banerjee
+
 {: .note }
 > We just aggregate web content links related to the artist and do not aim to claim ownership of any records. It is possible that a few weblinks become stale, or are removed by respective owners
 
